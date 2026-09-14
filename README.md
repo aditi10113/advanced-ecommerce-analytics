@@ -161,10 +161,6 @@ The Power BI dashboard provides an interactive executive overview of the busines
 * Revenue by Region
 * Profit by Region
 
-### Dashboard Preview
-
-![Power BI Dashboard](powerbi/dashboard_preview.png)
-
 ## Sample Business Insights
 
 The analysis identifies several important customer and business patterns:
