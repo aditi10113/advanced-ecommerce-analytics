@@ -1,0 +1,1460 @@
+customer_id,segment,recency,frequency,monetary,total_revenue,total_profit,total_orders,estimated_clv,value_segment,customer_intelligence_segment
+CUST00001,Potential Loyalists,209,1,42295.37,42295.37,14486.63,1,14486.63,High Value,Growth Opportunities
+CUST00002,Potential Loyalists,63,2,8886.97,8886.97,2668.52,2,181.78,Low Value,Low-Value Customers
+CUST00003,Loyal Customers,222,4,97133.9,97133.9,35721.19,4,3870.12,High Value,Loyal High-Value
+CUST00004,Potential Loyalists,221,2,59992.7,59992.7,12140.17,2,2497.98,Medium Value,Growth Opportunities
+CUST00005,Loyal Customers,247,4,57541.44,57541.44,23062.58,4,2829.76,Medium Value,Medium-Value Customers
+CUST00006,At Risk,378,2,12964.9,12964.9,3387.81,2,1636.62,Medium Value,Medium-Value Customers
+CUST00007,Loyal Customers,20,3,51458.17,51458.17,11270.31,3,819.06,Low Value,Low-Value Customers
+CUST00008,Champions,30,4,42667.83,42667.83,16417.73,4,1081.54,Medium Value,Medium-Value Customers
+CUST00009,Potential Loyalists,9,2,15624.61,15624.61,6730.66,2,2660.34,Medium Value,Growth Opportunities
+CUST00010,Champions,8,4,65565.31,65565.31,17418.94,4,1384.65,Medium Value,Medium-Value Customers
+CUST00011,Potential Loyalists,97,3,10257.93,10257.93,2650.84,3,210.22,Low Value,Low-Value Customers
+CUST00012,Potential Loyalists,211,2,48430.66,48430.66,16566.6,2,11193.65,High Value,Growth Opportunities
+CUST00013,Loyal Customers,122,3,44362.67,44362.67,13342.7,3,1157.22,Medium Value,Medium-Value Customers
+CUST00014,Potential Loyalists,211,2,26300.6,26300.6,5092.45,2,1107.05,Medium Value,Growth Opportunities
+CUST00016,Potential Loyalists,75,3,14083.84,14083.84,5739.86,3,513.86,Low Value,Low-Value Customers
+CUST00017,Potential Loyalists,138,2,38845.08,38845.08,12253.51,2,1053.61,Medium Value,Growth Opportunities
+CUST00018,Loyal Customers,48,3,23285.08,23285.08,7905.26,3,606.23,Low Value,Low-Value Customers
+CUST00019,At Risk,114,1,4606.09,4606.09,2091.21,1,2091.21,Medium Value,Medium-Value Customers
+CUST00020,Potential Loyalists,227,3,19280.02,19280.02,7155.8,3,903.51,Low Value,Low-Value Customers
+CUST00021,Potential Loyalists,93,2,16497.260000000002,16497.26,6386.9,2,10301.45,High Value,Growth Opportunities
+CUST00022,Needs Attention,218,1,611.13,611.13,257.13,1,257.13,Low Value,Low-Value / Low-Engagement
+CUST00023,At Risk,441,2,26672.800000000003,26672.8,9934.78,2,6451.16,High Value,At-Risk High-Value
+CUST00024,Potential Loyalists,178,4,28407.35,28407.35,9755.81,4,897.5,Low Value,Low-Value Customers
+CUST00025,Needs Attention,413,2,10802.82,10802.82,3484.37,2,1824.28,Medium Value,Medium-Value Customers
+CUST00026,Needs Attention,453,1,2126.1,2126.1,743.91,1,743.91,Low Value,Low-Value / Low-Engagement
+CUST00027,At Risk,363,2,24286.4,24286.4,5485.72,2,1255.31,Medium Value,Medium-Value Customers
+CUST00028,At Risk,399,2,27518.910000000003,27518.91,10044.09,2,3359.23,Medium Value,Medium-Value Customers
+CUST00029,Champions,29,3,126837.6,126837.6,25381.55,3,1697.76,Medium Value,Medium-Value Customers
+CUST00030,Potential Loyalists,88,2,34862.78,34862.78,12012.04,2,1128.95,Medium Value,Growth Opportunities
+CUST00031,Needs Attention,270,1,2876.06,2876.06,1091.02,1,1091.02,Medium Value,Medium-Value Customers
+CUST00032,Loyal Customers,37,4,37217.68,37217.68,12985.4,4,932.19,Low Value,Low-Value Customers
+CUST00033,At Risk,177,1,1966.24,1966.24,556.74,1,556.74,Low Value,Low-Value Customers
+CUST00034,Loyal Customers,51,4,31734.36,31734.36,13453.89,4,1066.92,Medium Value,Medium-Value Customers
+CUST00035,Loyal Customers,38,3,46202.87,46202.87,19770.06,3,1322.41,Medium Value,Medium-Value Customers
+CUST00036,Champions,71,5,63736.79000000001,63736.79,22494.59,5,1669.98,Medium Value,Medium-Value Customers
+CUST00037,Champions,62,4,108047.82,108047.82,27925.51,4,1972.14,Medium Value,Medium-Value Customers
+CUST00038,Loyal Customers,116,3,50701.21,50701.21,11223.35,3,3320.52,Medium Value,Medium-Value Customers
+CUST00039,Loyal Customers,220,5,44870.17,44870.17,20148.09,5,1909.77,Medium Value,Medium-Value Customers
+CUST00040,Potential Loyalists,93,2,22893.39,22893.39,6307.82,2,1573.02,Medium Value,Growth Opportunities
+CUST00041,Loyal Customers,88,3,34984.18,34984.18,10025.27,3,942.22,Low Value,Low-Value Customers
+CUST00042,Needs Attention,358,2,10848.85,10848.85,3474.77,2,2256.34,Medium Value,Medium-Value Customers
+CUST00043,Loyal Customers,18,2,37032.71,37032.71,7813.4,2,757.11,Low Value,Low-Value Customers
+CUST00044,Champions,6,4,80250.34,80250.34,27546.87,4,2015.13,Medium Value,Medium-Value Customers
+CUST00045,Loyal Customers,10,2,64755.99,64755.99,18487.4,2,1461.45,Medium Value,Medium-Value Customers
+CUST00046,Loyal Customers,42,2,57807.66,57807.66,21027.48,2,131421.75,High Value,Loyal High-Value
+CUST00047,Potential Loyalists,120,3,29182.6,29182.6,8799.46,3,1557.43,Medium Value,Growth Opportunities
+CUST00048,Needs Attention,251,1,2771.95,2771.95,797.46,1,797.46,Low Value,Low-Value / Low-Engagement
+CUST00049,At Risk,494,2,27058.35,27058.35,6249.35,2,3955.28,High Value,At-Risk High-Value
+CUST00050,Needs Attention,382,2,10660.88,10660.88,3423.56,2,1426.48,Medium Value,Medium-Value Customers
+CUST00051,Loyal Customers,262,4,87658.01000000001,87658.01,31744.94,4,3402.46,Medium Value,Medium-Value Customers
+CUST00052,Potential Loyalists,76,2,13018.9,13018.9,4292.29,2,2716.64,Medium Value,Growth Opportunities
+CUST00053,Loyal Customers,47,3,61305.3,61305.3,16486.88,3,2902.62,Medium Value,Medium-Value Customers
+CUST00054,Potential Loyalists,52,3,23347.82,23347.82,7522.05,3,768.34,Low Value,Low-Value Customers
+CUST00055,Champions,46,6,154609.75,154609.75,41338.79,6,2660.15,Medium Value,Medium-Value Customers
+CUST00056,Potential Loyalists,109,3,22106.41,22106.41,6828.33,3,653.43,Low Value,Low-Value Customers
+CUST00057,Needs Attention,531,1,10866.17,10866.17,2386.7,1,2386.7,Medium Value,Medium-Value Customers
+CUST00058,Loyal Customers,11,3,13649.29,13649.29,4377.64,3,279.9,Low Value,Low-Value Customers
+CUST00059,At Risk,252,1,38364.26,38364.26,9097.26,1,9097.26,High Value,At-Risk High-Value
+CUST00060,At Risk,146,1,19346.43,19346.43,8133.32,1,8133.32,High Value,At-Risk High-Value
+CUST00061,Potential Loyalists,115,2,19842.44,19842.44,8297.27,2,786.47,Low Value,Low-Value Customers
+CUST00062,At Risk,79,1,6576.01,6576.01,2453.1,1,2453.1,Medium Value,Medium-Value Customers
+CUST00063,At Risk,210,2,11637.95,11637.95,5356.88,2,489.66,Low Value,Low-Value Customers
+CUST00064,Potential Loyalists,201,2,37857.44,37857.44,12478.84,2,1681.78,Medium Value,Growth Opportunities
+CUST00065,Potential Loyalists,371,2,69744.18000000001,69744.18,24863.72,2,18017.19,High Value,Growth Opportunities
+CUST00066,At Risk,397,2,20288.15,20288.15,4566.52,2,3567.59,High Value,At-Risk High-Value
+CUST00067,Needs Attention,326,1,14376.31,14376.31,4562.72,1,4562.72,High Value,High-Value Customers
+CUST00069,Potential Loyalists,377,3,32111.7,32111.7,8895.07,3,1782.58,Medium Value,Growth Opportunities
+CUST00070,Loyal Customers,60,3,39473.95,39473.95,16648.83,3,1481.21,Medium Value,Medium-Value Customers
+CUST00071,Potential Loyalists,174,2,33013.11,33013.11,11287.94,2,928.28,Low Value,Low-Value Customers
+CUST00072,At Risk,313,3,11389.94,11389.94,2197.95,3,318.54,Low Value,Low-Value Customers
+CUST00073,Loyal Customers,301,4,69650.23000000001,69650.23,18321.57,4,2364.07,Medium Value,Medium-Value Customers
+CUST00074,Potential Loyalists,15,1,13063.95,13063.95,2864.02,1,2864.02,Medium Value,Growth Opportunities
+CUST00075,Loyal Customers,45,3,25703.9,25703.9,10939.19,3,1050.83,Medium Value,Medium-Value Customers
+CUST00076,At Risk,193,2,20298.75,20298.75,6587.37,2,1193.36,Medium Value,Medium-Value Customers
+CUST00077,Champions,24,7,64391.2,64391.2,14456.2,7,879.87,Low Value,Low-Value Customers
+CUST00078,At Risk,381,2,11394.57,11394.57,2363.4,2,750.29,Low Value,Low-Value Customers
+CUST00079,Loyal Customers,59,3,47882.44,47882.44,12331.33,3,1390.23,Medium Value,Medium-Value Customers
+CUST00080,Loyal Customers,57,3,70818.58,70818.58,21800.42,3,2592.2,Medium Value,Medium-Value Customers
+CUST00081,Needs Attention,481,1,637.0,637.0,102.75,1,102.75,Low Value,Low-Value / Low-Engagement
+CUST00082,Potential Loyalists,34,2,18994.78,18994.78,4832.51,2,875.45,Low Value,Low-Value Customers
+CUST00083,Loyal Customers,142,3,41823.33,41823.33,16125.37,3,1845.01,Medium Value,Medium-Value Customers
+CUST00084,Potential Loyalists,61,1,23112.61,23112.61,6900.04,1,6900.04,High Value,Growth Opportunities
+CUST00085,Loyal Customers,135,3,72544.9,72544.9,17971.74,3,2349.25,Medium Value,Medium-Value Customers
+CUST00086,At Risk,288,2,10764.58,10764.58,3371.06,2,573.31,Low Value,Low-Value Customers
+CUST00087,Loyal Customers,77,3,52295.94,52295.94,18124.99,3,1239.74,Medium Value,Medium-Value Customers
+CUST00088,Needs Attention,338,2,11157.23,11157.23,2757.59,2,456.55,Low Value,Low-Value / Low-Engagement
+CUST00089,Potential Loyalists,87,2,19599.32,19599.32,5723.28,2,57232.8,High Value,Growth Opportunities
+CUST00090,Needs Attention,457,2,6873.6,6873.6,2511.58,2,1589.61,Medium Value,Medium-Value Customers
+CUST00091,Needs Attention,452,1,4894.12,4894.12,1862.34,1,1862.34,Medium Value,Medium-Value Customers
+CUST00092,Potential Loyalists,108,3,29673.53,29673.53,5848.6,3,773.62,Low Value,Low-Value Customers
+CUST00093,Potential Loyalists,323,3,75282.18,75282.18,20664.83,3,7150.46,High Value,Growth Opportunities
+CUST00094,Potential Loyalists,44,2,12283.44,12283.44,3935.12,2,327.38,Low Value,Low-Value Customers
+CUST00095,Potential Loyalists,374,3,59455.14,59455.14,16425.25,3,3846.66,High Value,Growth Opportunities
+CUST00096,At Risk,314,2,18232.99,18232.99,5025.6,2,1963.12,Medium Value,Medium-Value Customers
+CUST00097,Champions,116,6,161744.52000000002,161744.52,52137.64,6,4722.61,High Value,VIP Customers
+CUST00098,At Risk,72,1,10207.53,10207.53,3990.6,1,3990.6,High Value,At-Risk High-Value
+CUST00099,Needs Attention,345,1,23507.24,23507.24,9551.9,1,9551.9,High Value,High-Value Customers
+CUST00100,Champions,157,5,84393.72,84393.72,26783.95,5,2277.55,Medium Value,Medium-Value Customers
+CUST00102,Loyal Customers,33,3,22931.230000000003,22931.23,7986.44,3,979.93,Medium Value,Medium-Value Customers
+CUST00103,Champions,24,5,118585.18,118585.18,31298.64,5,2546.68,Medium Value,Medium-Value Customers
+CUST00104,At Risk,144,1,17098.7,17098.7,5997.51,1,5997.51,High Value,At-Risk High-Value
+CUST00106,Champions,2,5,74651.61,74651.61,27741.27,5,2165.59,Medium Value,Medium-Value Customers
+CUST00108,Loyal Customers,104,4,130406.83,130406.83,29588.64,4,2559.57,Medium Value,Medium-Value Customers
+CUST00109,Potential Loyalists,30,1,8649.01,8649.01,2142.05,1,2142.05,Medium Value,Growth Opportunities
+CUST00111,At Risk,412,2,14141.13,14141.13,4653.98,2,1124.15,Medium Value,Medium-Value Customers
+CUST00112,Potential Loyalists,102,3,19137.61,19137.61,7101.26,3,720.21,Low Value,Low-Value Customers
+CUST00113,Loyal Customers,73,4,55871.07,55871.07,19355.42,4,1342.26,Medium Value,Medium-Value Customers
+CUST00114,At Risk,385,2,25298.64,25298.64,8495.47,2,2513.45,Medium Value,Medium-Value Customers
+CUST00115,Potential Loyalists,200,3,34677.8,34677.8,11040.07,3,1000.01,Medium Value,Growth Opportunities
+CUST00116,At Risk,113,1,19052.79,19052.79,8930.86,1,8930.86,High Value,At-Risk High-Value
+CUST00117,Champions,48,6,83311.9,83311.9,18418.0,6,1357.26,Medium Value,Medium-Value Customers
+CUST00118,At Risk,322,2,32785.64,32785.64,6490.03,2,1018.84,Medium Value,Medium-Value Customers
+CUST00119,At Risk,183,1,18697.52,18697.52,6372.79,1,6372.79,High Value,At-Risk High-Value
+CUST00120,Potential Loyalists,8,1,4962.61,4962.61,1081.18,1,1081.18,Medium Value,Growth Opportunities
+CUST00121,Needs Attention,466,1,4395.97,4395.97,803.43,1,803.43,Low Value,Low-Value / Low-Engagement
+CUST00122,Potential Loyalists,160,2,49658.53,49658.53,20057.42,2,3531.24,High Value,Growth Opportunities
+CUST00123,Potential Loyalists,11,2,15839.79,15839.79,3461.38,2,243.42,Low Value,Low-Value Customers
+CUST00125,Potential Loyalists,163,3,23006.85,23006.85,9410.58,3,755.87,Low Value,Low-Value Customers
+CUST00126,Champions,21,4,76255.74,76255.74,16687.72,4,1807.99,Medium Value,Medium-Value Customers
+CUST00127,Needs Attention,360,1,3577.48,3577.48,943.54,1,943.54,Low Value,Low-Value / Low-Engagement
+CUST00128,At Risk,312,1,27445.15,27445.15,8072.13,1,8072.13,High Value,At-Risk High-Value
+CUST00129,Potential Loyalists,389,3,47191.34,47191.34,19344.38,3,4909.74,High Value,Growth Opportunities
+CUST00131,Loyal Customers,130,3,46697.76,46697.76,17101.01,3,1620.95,Medium Value,Medium-Value Customers
+CUST00133,Potential Loyalists,162,3,25007.3,25007.3,8781.55,3,770.31,Low Value,Low-Value Customers
+CUST00134,Potential Loyalists,247,3,25639.66,25639.66,10854.24,3,1550.61,Medium Value,Growth Opportunities
+CUST00135,Loyal Customers,141,6,51826.75,51826.75,17658.64,6,1717.77,Medium Value,Medium-Value Customers
+CUST00136,Champions,16,3,165457.19,165457.19,46329.76,3,3721.27,High Value,VIP Customers
+CUST00137,Needs Attention,398,1,14809.78,14809.78,3836.47,1,3836.47,High Value,High-Value Customers
+CUST00138,Needs Attention,294,1,8019.3,8019.3,2926.7,1,2926.7,Medium Value,Medium-Value Customers
+CUST00140,Needs Attention,182,1,6891.74,6891.74,1484.27,1,1484.27,Medium Value,Medium-Value Customers
+CUST00141,At Risk,125,1,1042.49,1042.49,229.48,1,229.48,Low Value,Low-Value Customers
+CUST00142,Needs Attention,315,2,10997.17,10997.17,4310.13,2,856.88,Low Value,Low-Value / Low-Engagement
+CUST00143,Loyal Customers,54,4,63143.9,63143.9,16719.67,4,1971.66,Medium Value,Medium-Value Customers
+CUST00144,Loyal Customers,230,5,46218.76,46218.76,12922.14,5,1812.36,Medium Value,Medium-Value Customers
+CUST00145,Potential Loyalists,167,2,17610.190000000002,17610.19,7566.48,2,5604.8,High Value,Growth Opportunities
+CUST00146,Potential Loyalists,68,1,11413.5,11413.5,2230.88,1,2230.88,Medium Value,Growth Opportunities
+CUST00147,Champions,5,4,90302.64,90302.64,27506.08,4,1705.27,Medium Value,Medium-Value Customers
+CUST00148,Champions,37,7,109110.75,109110.75,33656.35,7,2960.1,Medium Value,Medium-Value Customers
+CUST00149,Potential Loyalists,250,3,34167.149999999994,34167.15,7812.95,3,951.64,Medium Value,Growth Opportunities
+CUST00150,At Risk,381,2,24596.05,24596.05,7549.47,2,1500.89,Medium Value,Medium-Value Customers
+CUST00151,Potential Loyalists,47,1,8745.62,8745.62,2466.12,1,2466.12,Medium Value,Growth Opportunities
+CUST00152,At Risk,351,1,38335.82,38335.82,12874.3,1,12874.3,High Value,At-Risk High-Value
+CUST00155,Potential Loyalists,106,2,16688.0,16688.0,5197.46,2,404.79,Low Value,Low-Value Customers
+CUST00157,At Risk,163,1,11510.51,11510.51,2202.33,1,2202.33,Medium Value,Medium-Value Customers
+CUST00158,Loyal Customers,165,4,25413.64,25413.64,7558.53,4,615.01,Low Value,Low-Value Customers
+CUST00159,Needs Attention,463,1,1281.0,1281.0,252.48,1,252.48,Low Value,Low-Value / Low-Engagement
+CUST00160,Needs Attention,534,1,2421.72,2421.72,1051.08,1,1051.08,Medium Value,Medium-Value Customers
+CUST00161,Potential Loyalists,337,3,34514.55,34514.55,8329.06,3,1267.74,Medium Value,Growth Opportunities
+CUST00162,Loyal Customers,53,3,40679.77,40679.77,13608.29,3,1408.73,Medium Value,Medium-Value Customers
+CUST00163,Champions,156,5,85559.15,85559.15,26795.94,5,2336.18,Medium Value,Medium-Value Customers
+CUST00164,Loyal Customers,102,5,43537.95,43537.95,11391.9,5,962.97,Medium Value,Medium-Value Customers
+CUST00165,Loyal Customers,15,4,26993.590000000004,26993.59,6818.34,4,513.82,Low Value,Low-Value Customers
+CUST00166,Loyal Customers,155,4,26904.72,26904.72,10000.15,4,991.1,Medium Value,Medium-Value Customers
+CUST00167,Champions,47,4,78702.47,78702.47,25228.35,4,2821.96,Medium Value,Medium-Value Customers
+CUST00168,Needs Attention,473,1,5924.06,5924.06,1869.01,1,1869.01,Medium Value,Medium-Value Customers
+CUST00170,Loyal Customers,60,4,17244.64,17244.64,4298.1,4,1364.48,Medium Value,Medium-Value Customers
+CUST00171,Champions,10,4,85459.54999999999,85459.55,22428.97,4,1880.05,Medium Value,Medium-Value Customers
+CUST00172,Loyal Customers,81,4,25396.3,25396.3,9672.25,4,775.02,Low Value,Low-Value Customers
+CUST00173,At Risk,161,1,9564.46,9564.46,4033.6,1,4033.6,High Value,At-Risk High-Value
+CUST00175,Champions,29,4,103647.5,103647.5,34951.22,4,2136.38,Medium Value,Medium-Value Customers
+CUST00176,Potential Loyalists,13,1,3584.5,3584.5,911.98,1,911.98,Low Value,Low-Value Customers
+CUST00177,At Risk,216,2,16736.57,16736.57,5840.65,2,815.73,Low Value,Low-Value Customers
+CUST00178,Potential Loyalists,203,3,26251.47,26251.47,8182.31,3,1163.91,Medium Value,Growth Opportunities
+CUST00179,At Risk,91,1,3428.45,3428.45,1400.86,1,1400.86,Medium Value,Medium-Value Customers
+CUST00180,At Risk,203,2,19155.29,19155.29,4344.94,2,699.67,Low Value,Low-Value Customers
+CUST00181,Potential Loyalists,77,3,8665.0,8665.0,2671.46,3,3871.68,High Value,Growth Opportunities
+CUST00182,Potential Loyalists,50,2,9659.63,9659.63,2424.74,2,631.44,Low Value,Low-Value Customers
+CUST00183,At Risk,308,1,37125.9,37125.9,9174.46,1,9174.46,High Value,At-Risk High-Value
+CUST00184,Loyal Customers,122,2,72432.05,72432.05,22452.37,2,2985.69,Medium Value,Medium-Value Customers
+CUST00185,Loyal Customers,168,4,26873.87,26873.87,10140.48,4,852.86,Low Value,Low-Value Customers
+CUST00187,Loyal Customers,155,4,48637.62,48637.62,17217.54,4,1432.41,Medium Value,Medium-Value Customers
+CUST00188,Champions,27,6,69051.0,69051.0,19909.19,6,1178.76,Medium Value,Medium-Value Customers
+CUST00189,Loyal Customers,127,4,26506.26,26506.26,9330.33,4,950.14,Medium Value,Medium-Value Customers
+CUST00190,Loyal Customers,67,3,77017.68000000001,77017.68,22766.57,3,1962.64,Medium Value,Medium-Value Customers
+CUST00191,Potential Loyalists,30,2,18476.3,18476.3,8164.53,2,688.41,Low Value,Low-Value Customers
+CUST00192,Loyal Customers,248,4,41196.43,41196.43,16605.69,4,1691.01,Medium Value,Medium-Value Customers
+CUST00194,Potential Loyalists,121,2,19678.57,19678.57,5003.28,2,3908.81,High Value,Growth Opportunities
+CUST00196,Loyal Customers,104,4,68925.54,68925.54,26033.56,4,3403.08,Medium Value,Medium-Value Customers
+CUST00197,Loyal Customers,8,1,48340.67,48340.67,8815.36,1,8815.36,High Value,Loyal High-Value
+CUST00198,Loyal Customers,17,2,25912.82,25912.82,9995.68,2,884.57,Low Value,Low-Value Customers
+CUST00199,Potential Loyalists,275,3,28663.08,28663.08,10232.32,3,2664.67,Medium Value,Growth Opportunities
+CUST00200,Loyal Customers,39,2,58875.41,58875.41,10538.45,2,1248.63,Medium Value,Medium-Value Customers
+CUST00201,Champions,26,6,129090.96,129090.96,55036.78,6,3214.77,Medium Value,Medium-Value Customers
+CUST00202,Loyal Customers,169,4,58097.12,58097.12,15921.26,4,3593.96,High Value,Loyal High-Value
+CUST00203,Champions,127,5,104102.21,104102.21,32031.61,5,2462.08,Medium Value,Medium-Value Customers
+CUST00204,Potential Loyalists,42,2,3281.57,3281.57,676.92,2,57.08,Low Value,Low-Value Customers
+CUST00205,Needs Attention,229,1,2414.58,2414.58,1030.54,1,1030.54,Medium Value,Medium-Value Customers
+CUST00206,Loyal Customers,2,4,11166.83,11166.83,2890.09,4,720.72,Low Value,Low-Value Customers
+CUST00208,Loyal Customers,43,3,17742.350000000002,17742.35,6807.37,3,1594.23,Medium Value,Medium-Value Customers
+CUST00210,Potential Loyalists,74,2,26536.58,26536.58,8398.62,2,645.55,Low Value,Low-Value Customers
+CUST00212,Potential Loyalists,251,3,38702.52,38702.52,10874.41,3,1191.06,Medium Value,Growth Opportunities
+CUST00213,Needs Attention,422,2,7767.83,7767.83,1990.73,2,1026.15,Medium Value,Medium-Value Customers
+CUST00214,Potential Loyalists,36,2,15195.08,15195.08,4107.73,2,310.96,Low Value,Low-Value Customers
+CUST00215,Champions,94,6,58304.11,58304.11,18021.22,6,1553.55,Medium Value,Medium-Value Customers
+CUST00216,Needs Attention,472,1,23386.49,23386.49,10597.34,1,10597.34,High Value,High-Value Customers
+CUST00217,Loyal Customers,48,3,19844.46,19844.46,3604.57,3,227.7,Low Value,Low-Value Customers
+CUST00218,Loyal Customers,138,4,53931.69,53931.69,17498.0,4,2056.17,Medium Value,Medium-Value Customers
+CUST00219,Potential Loyalists,67,2,9610.25,9610.25,2305.4,2,1077.29,Medium Value,Growth Opportunities
+CUST00220,Champions,9,4,105185.31,105185.31,44381.59,4,9188.73,High Value,VIP Customers
+CUST00221,Champions,14,4,129767.72,129767.72,49565.74,4,2901.98,Medium Value,Medium-Value Customers
+CUST00222,Loyal Customers,63,2,57374.36,57374.36,10267.58,2,952.47,Medium Value,Medium-Value Customers
+CUST00223,Needs Attention,314,2,4121.37,4121.37,1592.73,2,527.39,Low Value,Low-Value / Low-Engagement
+CUST00224,At Risk,194,2,15174.35,15174.35,3809.54,2,375.32,Low Value,Low-Value Customers
+CUST00225,Needs Attention,298,1,1329.37,1329.37,354.64,1,354.64,Low Value,Low-Value / Low-Engagement
+CUST00226,Champions,9,5,48682.41,48682.41,14069.86,5,835.01,Low Value,Low-Value Customers
+CUST00228,Loyal Customers,82,3,34355.47,34355.47,10451.66,3,832.8,Low Value,Low-Value Customers
+CUST00229,Champions,97,7,128368.77,128368.77,34431.09,7,3074.2,Medium Value,Medium-Value Customers
+CUST00230,Potential Loyalists,152,3,21229.66,21229.66,6471.38,3,1875.76,Medium Value,Growth Opportunities
+CUST00231,At Risk,326,1,35905.47,35905.47,6766.82,1,6766.82,High Value,At-Risk High-Value
+CUST00232,At Risk,394,2,31506.97,31506.97,5308.19,2,3159.64,Medium Value,Medium-Value Customers
+CUST00233,Loyal Customers,34,2,86420.97,86420.97,26237.73,2,3398.67,Medium Value,Medium-Value Customers
+CUST00234,Loyal Customers,56,3,77372.33,77372.33,33562.23,3,2893.3,Medium Value,Medium-Value Customers
+CUST00235,Champions,20,5,57279.49,57279.49,12599.43,5,745.97,Low Value,Low-Value Customers
+CUST00236,Champions,15,6,65902.41,65902.41,23118.57,6,1559.96,Medium Value,Medium-Value Customers
+CUST00237,Potential Loyalists,58,2,11389.65,11389.65,3790.79,2,285.67,Low Value,Low-Value Customers
+CUST00238,Potential Loyalists,57,2,37148.31,37148.31,13477.69,2,3015.14,Medium Value,Growth Opportunities
+CUST00239,Loyal Customers,47,3,61051.5,61051.5,12957.78,3,806.84,Low Value,Low-Value Customers
+CUST00240,Potential Loyalists,82,2,23787.01,23787.01,10829.58,2,781.35,Low Value,Low-Value Customers
+CUST00241,At Risk,260,1,18585.06,18585.06,8834.13,1,8834.13,High Value,At-Risk High-Value
+CUST00242,At Risk,403,2,15544.16,15544.16,5142.64,2,3254.84,Medium Value,Medium-Value Customers
+CUST00244,At Risk,96,1,7840.18,7840.18,2583.44,1,2583.44,Medium Value,Medium-Value Customers
+CUST00245,Loyal Customers,152,4,53725.81,53725.81,19781.0,4,1924.22,Medium Value,Medium-Value Customers
+CUST00246,Loyal Customers,7,3,24071.54,24071.54,8024.47,3,825.56,Low Value,Low-Value Customers
+CUST00247,Potential Loyalists,407,3,61446.65,61446.65,19096.41,3,6995.02,High Value,Growth Opportunities
+CUST00248,Loyal Customers,2,1,45854.57,45854.57,21357.84,1,21357.84,High Value,Loyal High-Value
+CUST00249,Champions,39,6,147987.94,147987.94,44189.73,6,2767.05,Medium Value,Medium-Value Customers
+CUST00250,Potential Loyalists,198,3,40323.19,40323.19,15147.19,3,2993.52,Medium Value,Growth Opportunities
+CUST00251,At Risk,513,2,20553.35,20553.35,8026.64,2,18666.6,High Value,At-Risk High-Value
+CUST00252,Needs Attention,452,1,3139.72,3139.72,964.66,1,964.66,Medium Value,Medium-Value Customers
+CUST00253,Champions,37,3,74675.67,74675.67,25407.11,3,2378.94,Medium Value,Medium-Value Customers
+CUST00254,Champions,11,3,70841.25,70841.25,24857.25,3,1522.18,Medium Value,Medium-Value Customers
+CUST00255,Potential Loyalists,200,2,34538.350000000006,34538.35,8002.44,2,2156.99,Medium Value,Growth Opportunities
+CUST00256,Loyal Customers,180,4,84573.11,84573.11,32429.64,4,3464.71,High Value,Loyal High-Value
+CUST00257,At Risk,459,2,18371.89,18371.89,5856.61,2,3235.7,Medium Value,Medium-Value Customers
+CUST00258,Potential Loyalists,46,2,12545.76,12545.76,3841.05,2,285.79,Low Value,Low-Value Customers
+CUST00259,Needs Attention,301,1,13080.44,13080.44,2880.18,1,2880.18,Medium Value,Medium-Value Customers
+CUST00260,Loyal Customers,360,4,87301.82,87301.82,22664.34,4,4692.41,High Value,Loyal High-Value
+CUST00261,Potential Loyalists,178,3,15478.16,15478.16,4404.03,3,1674.54,Medium Value,Growth Opportunities
+CUST00262,Loyal Customers,72,3,67884.61,67884.61,26929.03,3,2145.74,Medium Value,Medium-Value Customers
+CUST00263,Potential Loyalists,122,3,12389.41,12389.41,4431.07,3,1124.64,Medium Value,Growth Opportunities
+CUST00264,Potential Loyalists,245,2,27446.120000000003,27446.12,6756.61,2,1459.31,Medium Value,Growth Opportunities
+CUST00265,Loyal Customers,154,4,56967.7,56967.7,14766.21,4,1391.73,Medium Value,Medium-Value Customers
+CUST00266,At Risk,322,2,12415.77,12415.77,5153.15,2,5052.11,High Value,At-Risk High-Value
+CUST00267,Loyal Customers,56,2,47476.28,47476.28,12745.49,2,809.75,Low Value,Low-Value Customers
+CUST00268,Loyal Customers,121,4,57055.5,57055.5,16783.39,4,1370.07,Medium Value,Medium-Value Customers
+CUST00269,Potential Loyalists,451,2,49738.72,49738.72,10632.02,2,6903.91,High Value,Growth Opportunities
+CUST00271,Champions,52,5,129455.38,129455.38,25497.53,5,2103.76,Medium Value,Medium-Value Customers
+CUST00272,At Risk,307,2,29735.7,29735.7,9913.95,2,1390.46,Medium Value,Medium-Value Customers
+CUST00273,At Risk,299,2,15228.26,15228.26,5864.02,2,1311.86,Medium Value,Medium-Value Customers
+CUST00274,Needs Attention,544,1,7262.19,7262.19,3369.26,1,3369.26,Medium Value,Medium-Value Customers
+CUST00275,Loyal Customers,138,3,98975.32,98975.32,32182.59,3,2830.48,Medium Value,Medium-Value Customers
+CUST00276,Potential Loyalists,166,2,33974.56,33974.56,6687.76,2,692.31,Low Value,Low-Value Customers
+CUST00277,Needs Attention,353,2,11165.66,11165.66,2521.55,2,397.72,Low Value,Low-Value / Low-Engagement
+CUST00278,Loyal Customers,178,5,87161.43,87161.43,27040.52,5,2781.95,Medium Value,Medium-Value Customers
+CUST00279,At Risk,56,1,8207.56,8207.56,3014.3,1,3014.3,Medium Value,Medium-Value Customers
+CUST00280,At Risk,141,2,3143.3,3143.3,1319.01,2,278.86,Low Value,Low-Value Customers
+CUST00281,Champions,21,3,73564.48,73564.48,32619.52,3,2031.1,Medium Value,Medium-Value Customers
+CUST00282,Champions,3,6,90531.17,90531.17,28100.74,6,1614.06,Medium Value,Medium-Value Customers
+CUST00283,Champions,1,3,121558.93,121558.93,38642.22,3,3360.19,Medium Value,Medium-Value Customers
+CUST00284,Champions,57,5,101341.47,101341.47,38855.14,5,3071.55,Medium Value,Medium-Value Customers
+CUST00285,Potential Loyalists,20,1,2683.84,2683.84,588.84,1,588.84,Low Value,Low-Value Customers
+CUST00287,Loyal Customers,25,4,34060.29,34060.29,12235.23,4,774.38,Low Value,Low-Value Customers
+CUST00288,Potential Loyalists,61,2,36795.11,36795.11,13173.22,2,1480.14,Medium Value,Growth Opportunities
+CUST00289,Needs Attention,269,1,3788.07,3788.07,633.55,1,633.55,Low Value,Low-Value / Low-Engagement
+CUST00290,Loyal Customers,8,3,47885.99,47885.99,20288.84,3,1842.76,Medium Value,Medium-Value Customers
+CUST00292,Needs Attention,318,1,18601.13,18601.13,4103.58,1,4103.58,High Value,High-Value Customers
+CUST00293,Potential Loyalists,107,3,23814.24,23814.24,9955.04,3,875.55,Low Value,Low-Value Customers
+CUST00294,Potential Loyalists,273,3,12544.14,12544.14,2742.96,3,766.19,Low Value,Low-Value Customers
+CUST00295,Potential Loyalists,211,2,94593.58,94593.58,42168.68,2,5136.26,High Value,Growth Opportunities
+CUST00296,Champions,67,4,151825.93,151825.93,47185.31,4,3444.18,Medium Value,Medium-Value Customers
+CUST00297,Champions,29,8,91843.79,91843.79,26603.21,8,1741.05,Medium Value,Medium-Value Customers
+CUST00298,Champions,49,6,79756.48,79756.48,20468.79,6,1429.38,Medium Value,Medium-Value Customers
+CUST00299,Loyal Customers,247,4,70931.18000000001,70931.18,17196.71,4,1857.1,Medium Value,Medium-Value Customers
+CUST00300,Potential Loyalists,62,3,21248.8,21248.8,7429.48,3,579.98,Low Value,Low-Value Customers
+CUST00301,Loyal Customers,56,4,18178.1,18178.1,4701.53,4,307.69,Low Value,Low-Value Customers
+CUST00302,Potential Loyalists,333,3,125202.85,125202.85,32512.11,3,6554.86,High Value,Growth Opportunities
+CUST00303,Loyal Customers,114,2,68183.05,68183.05,27135.13,2,2689.31,Medium Value,Medium-Value Customers
+CUST00304,Potential Loyalists,101,2,39062.2,39062.2,17054.6,2,3731.86,High Value,Growth Opportunities
+CUST00305,Potential Loyalists,260,4,32195.21,32195.21,10333.65,4,1417.51,Medium Value,Growth Opportunities
+CUST00306,Loyal Customers,22,3,19741.9,19741.9,6259.96,3,544.34,Low Value,Low-Value Customers
+CUST00307,Potential Loyalists,18,2,6505.21,6505.21,1976.31,2,237.82,Low Value,Low-Value Customers
+CUST00308,At Risk,101,1,8812.92,8812.92,1867.75,1,1867.75,Medium Value,Medium-Value Customers
+CUST00309,At Risk,378,2,29366.95,29366.95,13190.82,2,2606.88,Medium Value,Medium-Value Customers
+CUST00311,Loyal Customers,26,3,33728.61,33728.61,12132.5,3,1093.02,Medium Value,Medium-Value Customers
+CUST00312,Loyal Customers,73,3,78673.1,78673.1,18960.59,3,2281.66,Medium Value,Medium-Value Customers
+CUST00313,Loyal Customers,37,2,34398.83,34398.83,7265.3,2,577.53,Low Value,Low-Value Customers
+CUST00314,Potential Loyalists,33,2,15379.61,15379.61,3811.49,2,6806.23,High Value,Growth Opportunities
+CUST00315,Needs Attention,507,1,6571.56,6571.56,1958.48,1,1958.48,Medium Value,Medium-Value Customers
+CUST00316,Champions,26,3,103703.54,103703.54,33994.3,3,2279.97,Medium Value,Medium-Value Customers
+CUST00317,Potential Loyalists,128,2,19250.19,19250.19,7189.08,2,8767.17,High Value,Growth Opportunities
+CUST00318,Potential Loyalists,8,2,12649.92,12649.92,4061.48,2,519.37,Low Value,Low-Value Customers
+CUST00319,Champions,89,7,223128.01,223128.01,79595.29,7,6242.77,High Value,VIP Customers
+CUST00320,Potential Loyalists,80,2,20717.32,20717.32,7368.07,2,6244.13,High Value,Growth Opportunities
+CUST00321,Loyal Customers,99,4,29711.21,29711.21,8254.3,4,628.18,Low Value,Low-Value Customers
+CUST00322,At Risk,249,2,7200.1900000000005,7200.19,3050.09,2,350.18,Low Value,Low-Value Customers
+CUST00324,Champions,60,7,138722.1,138722.1,38684.7,7,2587.61,Medium Value,Medium-Value Customers
+CUST00325,Potential Loyalists,249,1,55188.15,55188.15,25224.24,1,25224.24,High Value,Growth Opportunities
+CUST00326,Needs Attention,527,1,12945.49,12945.49,4889.75,1,4889.75,High Value,High-Value Customers
+CUST00327,Loyal Customers,6,3,18478.98,18478.98,4736.56,3,548.21,Low Value,Low-Value Customers
+CUST00328,Loyal Customers,19,4,17754.97,17754.97,6188.09,4,437.01,Low Value,Low-Value Customers
+CUST00329,Potential Loyalists,56,3,10004.23,10004.23,2409.65,3,370.72,Low Value,Low-Value Customers
+CUST00330,At Risk,156,1,2311.87,2311.87,500.83,1,500.83,Low Value,Low-Value Customers
+CUST00331,Potential Loyalists,83,2,22694.18,22694.18,7040.1,2,665.42,Low Value,Low-Value Customers
+CUST00332,Champions,83,6,66878.99,66878.99,23535.35,6,1689.54,Medium Value,Medium-Value Customers
+CUST00333,Potential Loyalists,213,4,32006.15,32006.15,9243.16,4,1441.99,Medium Value,Growth Opportunities
+CUST00334,Loyal Customers,37,2,26663.02,26663.02,5299.64,2,1074.98,Medium Value,Medium-Value Customers
+CUST00335,At Risk,428,1,24664.72,24664.72,11144.18,1,11144.18,High Value,At-Risk High-Value
+CUST00336,Loyal Customers,46,4,29497.89,29497.89,12080.27,4,1114.42,Medium Value,Medium-Value Customers
+CUST00337,Champions,8,4,45276.71,45276.71,16503.79,4,1763.23,Medium Value,Medium-Value Customers
+CUST00338,Loyal Customers,89,4,51282.81,51282.81,12967.16,4,992.13,Medium Value,Medium-Value Customers
+CUST00339,Needs Attention,257,1,2775.76,2775.76,1251.94,1,1251.94,Medium Value,Medium-Value Customers
+CUST00340,Champions,74,5,100454.52,100454.52,36286.63,5,2493.93,Medium Value,Medium-Value Customers
+CUST00341,At Risk,529,1,31773.03,31773.03,7862.34,1,7862.34,High Value,At-Risk High-Value
+CUST00343,Champions,28,6,66163.75,66163.75,21338.76,6,1421.64,Medium Value,Medium-Value Customers
+CUST00344,Potential Loyalists,95,2,9476.169999999998,9476.17,2549.97,2,2865.13,Medium Value,Growth Opportunities
+CUST00345,Loyal Customers,368,4,78822.29000000001,78822.29,22638.78,4,15296.47,High Value,Loyal High-Value
+CUST00346,Potential Loyalists,297,2,92472.69,92472.69,18365.02,2,9002.46,High Value,Growth Opportunities
+CUST00347,At Risk,345,1,27178.73,27178.73,4390.34,1,4390.34,High Value,At-Risk High-Value
+CUST00348,At Risk,277,2,10123.72,10123.72,2803.67,2,1668.85,Medium Value,Medium-Value Customers
+CUST00350,At Risk,290,2,4502.46,4502.46,1419.73,2,245.63,Low Value,Low-Value Customers
+CUST00351,Needs Attention,468,1,1799.56,1799.56,650.41,1,650.41,Low Value,Low-Value / Low-Engagement
+CUST00352,Loyal Customers,163,3,91405.28,91405.28,25525.45,3,3885.15,High Value,Loyal High-Value
+CUST00353,Needs Attention,266,1,10398.17,10398.17,2651.91,1,2651.91,Medium Value,Medium-Value Customers
+CUST00354,Loyal Customers,132,4,27307.01,27307.01,9237.32,4,690.9,Low Value,Low-Value Customers
+CUST00356,Potential Loyalists,139,2,19131.38,19131.38,5314.32,2,519.99,Low Value,Low-Value Customers
+CUST00357,Needs Attention,267,1,3772.49,3772.49,793.84,1,793.84,Low Value,Low-Value / Low-Engagement
+CUST00358,Loyal Customers,220,3,106661.36,106661.36,39198.11,3,8466.11,High Value,Loyal High-Value
+CUST00359,Potential Loyalists,216,3,13345.76,13345.76,3510.49,3,445.49,Low Value,Low-Value Customers
+CUST00360,Loyal Customers,159,3,102241.54,102241.54,32404.97,3,3499.46,High Value,Loyal High-Value
+CUST00361,Potential Loyalists,408,3,49140.06,49140.06,23261.34,3,8048.91,High Value,Growth Opportunities
+CUST00362,Needs Attention,382,1,4491.25,4491.25,1375.89,1,1375.89,Medium Value,Medium-Value Customers
+CUST00363,Needs Attention,489,1,4231.2,4231.2,1303.41,1,1303.41,Medium Value,Medium-Value Customers
+CUST00364,Loyal Customers,159,5,28922.96,28922.96,9509.94,5,748.23,Low Value,Low-Value Customers
+CUST00365,Loyal Customers,96,3,37825.22,37825.22,13187.23,3,939.93,Low Value,Low-Value Customers
+CUST00366,At Risk,118,2,6423.57,6423.57,2344.66,2,891.51,Low Value,Low-Value Customers
+CUST00367,Loyal Customers,84,5,34135.6,34135.6,11239.22,5,784.86,Low Value,Low-Value Customers
+CUST00369,Potential Loyalists,12,2,22824.64,22824.64,6028.68,2,662.49,Low Value,Low-Value Customers
+CUST00370,At Risk,303,3,13600.12,13600.12,4036.76,3,982.18,Medium Value,Medium-Value Customers
+CUST00371,At Risk,188,2,12812.53,12812.53,2955.25,2,252.59,Low Value,Low-Value Customers
+CUST00373,Needs Attention,460,1,7783.94,7783.94,2277.21,1,2277.21,Medium Value,Medium-Value Customers
+CUST00374,Needs Attention,233,1,2997.74,2997.74,1106.2,1,1106.2,Medium Value,Medium-Value Customers
+CUST00376,At Risk,351,1,26922.46,26922.46,11234.15,1,11234.15,High Value,At-Risk High-Value
+CUST00377,Loyal Customers,41,2,34185.08,34185.08,15809.81,2,1227.47,Medium Value,Medium-Value Customers
+CUST00378,At Risk,176,1,15753.02,15753.02,7257.85,1,7257.85,High Value,At-Risk High-Value
+CUST00379,Potential Loyalists,78,2,15649.29,15649.29,4241.31,2,26508.19,High Value,Growth Opportunities
+CUST00380,Champions,9,5,87010.67,87010.67,29932.3,5,4066.89,High Value,VIP Customers
+CUST00381,Loyal Customers,80,3,34910.22,34910.22,9726.19,3,1009.99,Medium Value,Medium-Value Customers
+CUST00382,Loyal Customers,157,4,42671.63,42671.63,10701.85,4,1368.52,Medium Value,Medium-Value Customers
+CUST00383,Needs Attention,416,1,9301.26,9301.26,4053.69,1,4053.69,High Value,High-Value Customers
+CUST00384,Champions,33,5,49496.64,49496.64,16326.97,5,1114.47,Medium Value,Medium-Value Customers
+CUST00385,Potential Loyalists,214,3,43421.18,43421.18,15149.52,3,2847.65,Medium Value,Growth Opportunities
+CUST00386,Champions,54,5,92176.82,92176.82,29001.86,5,2932.44,Medium Value,Medium-Value Customers
+CUST00388,Potential Loyalists,101,2,20385.08,20385.08,7286.93,2,2574.89,Medium Value,Growth Opportunities
+CUST00389,Loyal Customers,99,4,30700.42,30700.42,12419.25,4,1049.81,Medium Value,Medium-Value Customers
+CUST00390,At Risk,147,1,15276.14,15276.14,4599.78,1,4599.78,High Value,At-Risk High-Value
+CUST00391,Champions,2,4,90981.45,90981.45,37695.66,4,2355.98,Medium Value,Medium-Value Customers
+CUST00392,Potential Loyalists,462,1,102541.85,102541.85,47498.57,1,47498.57,High Value,Growth Opportunities
+CUST00393,Potential Loyalists,316,3,28719.67,28719.67,8244.77,3,2642.55,Medium Value,Growth Opportunities
+CUST00394,At Risk,293,2,10850.24,10850.24,4595.63,2,555.03,Low Value,Low-Value Customers
+CUST00395,Loyal Customers,85,4,26869.62,26869.62,10371.04,4,805.2,Low Value,Low-Value Customers
+CUST00396,Potential Loyalists,134,3,37959.08,37959.08,15713.96,3,1678.84,Medium Value,Growth Opportunities
+CUST00397,Needs Attention,277,1,1470.62,1470.62,288.11,1,288.11,Low Value,Low-Value / Low-Engagement
+CUST00398,Needs Attention,204,1,9299.7,9299.7,2786.29,1,2786.29,Medium Value,Medium-Value Customers
+CUST00400,Champions,86,4,73816.72,73816.72,28759.03,4,2736.35,Medium Value,Medium-Value Customers
+CUST00401,Needs Attention,388,1,1867.16,1867.16,575.31,1,575.31,Low Value,Low-Value / Low-Engagement
+CUST00402,Potential Loyalists,354,4,49864.34,49864.34,18077.94,4,4398.53,High Value,Growth Opportunities
+CUST00403,Champions,19,5,69728.36,69728.36,28382.96,5,1950.72,Medium Value,Medium-Value Customers
+CUST00404,Champions,63,5,134574.33000000002,134574.33,36344.41,5,2966.89,Medium Value,Medium-Value Customers
+CUST00405,Potential Loyalists,314,2,55704.8,55704.8,12650.66,2,7713.82,High Value,Growth Opportunities
+CUST00406,Potential Loyalists,19,2,23678.29,23678.29,10912.24,2,840.7,Low Value,Low-Value Customers
+CUST00407,Loyal Customers,2,3,24759.42,24759.42,9030.3,3,662.53,Low Value,Low-Value Customers
+CUST00408,Champions,8,4,75309.23000000001,75309.23,33449.68,4,3758.39,High Value,VIP Customers
+CUST00409,Champions,107,5,228679.18,228679.18,81342.77,5,8598.6,High Value,VIP Customers
+CUST00410,Needs Attention,322,1,10972.6,10972.6,1900.96,1,1900.96,Medium Value,Medium-Value Customers
+CUST00412,Potential Loyalists,220,3,29031.13,29031.13,10629.0,3,1382.18,Medium Value,Growth Opportunities
+CUST00413,At Risk,128,2,10862.63,10862.63,4035.32,2,337.4,Low Value,Low-Value Customers
+CUST00414,Champions,2,5,43872.05,43872.05,14203.82,5,857.72,Low Value,Low-Value Customers
+CUST00415,Loyal Customers,85,2,80244.11,80244.11,28271.99,2,2114.58,Medium Value,Medium-Value Customers
+CUST00416,Potential Loyalists,209,3,47109.380000000005,47109.38,19147.69,3,2815.84,Medium Value,Growth Opportunities
+CUST00417,Loyal Customers,366,5,75163.2,75163.2,20173.44,5,3654.61,High Value,Loyal High-Value
+CUST00418,Potential Loyalists,140,2,55876.600000000006,55876.6,18822.16,2,7239.29,High Value,Growth Opportunities
+CUST00419,Loyal Customers,38,2,59525.990000000005,59525.99,26996.34,2,8383.96,High Value,Loyal High-Value
+CUST00420,Potential Loyalists,39,1,35876.38,35876.38,9500.17,1,9500.17,High Value,Growth Opportunities
+CUST00421,Needs Attention,244,1,9496.02,9496.02,1696.14,1,1696.14,Medium Value,Medium-Value Customers
+CUST00422,Needs Attention,397,1,11746.95,11746.95,4564.98,1,4564.98,High Value,High-Value Customers
+CUST00423,At Risk,330,1,34218.35,34218.35,13369.56,1,13369.56,High Value,At-Risk High-Value
+CUST00424,Needs Attention,436,1,1387.09,1387.09,266.2,1,266.2,Low Value,Low-Value / Low-Engagement
+CUST00425,Loyal Customers,57,3,93334.5,93334.5,19484.16,3,2759.8,Medium Value,Medium-Value Customers
+CUST00426,Loyal Customers,33,2,44001.29,44001.29,16566.59,2,1156.88,Medium Value,Medium-Value Customers
+CUST00427,Potential Loyalists,248,3,28111.410000000003,28111.41,12063.95,3,1434.48,Medium Value,Growth Opportunities
+CUST00428,Loyal Customers,128,5,22542.06,22542.06,6664.35,5,532.3,Low Value,Low-Value Customers
+CUST00429,At Risk,332,2,28225.68,28225.68,7773.18,2,2208.29,Medium Value,Medium-Value Customers
+CUST00430,Loyal Customers,245,5,58659.02999999999,58659.03,19945.77,5,3097.17,Medium Value,Medium-Value Customers
+CUST00431,Loyal Customers,23,2,25486.18,25486.18,8187.49,2,600.7,Low Value,Low-Value Customers
+CUST00433,Loyal Customers,70,3,34187.98,34187.98,12679.58,3,882.98,Low Value,Low-Value Customers
+CUST00434,Potential Loyalists,275,3,11866.91,11866.91,4975.63,3,1240.81,Medium Value,Growth Opportunities
+CUST00436,Needs Attention,421,1,8587.96,8587.96,1606.21,1,1606.21,Medium Value,Medium-Value Customers
+CUST00437,Potential Loyalists,68,3,9543.21,9543.21,3553.96,3,389.26,Low Value,Low-Value Customers
+CUST00438,Loyal Customers,68,2,41863.22,41863.22,14450.37,2,2895.87,Medium Value,Medium-Value Customers
+CUST00439,Potential Loyalists,270,3,48379.93,48379.93,20089.38,3,2898.9,Medium Value,Growth Opportunities
+CUST00440,Needs Attention,262,1,9533.26,9533.26,1900.9,1,1900.9,Medium Value,Medium-Value Customers
+CUST00441,Loyal Customers,69,4,18757.76,18757.76,6578.33,4,461.31,Low Value,Low-Value Customers
+CUST00442,Loyal Customers,237,3,79098.34,79098.34,23438.57,3,3158.84,Medium Value,Medium-Value Customers
+CUST00445,Potential Loyalists,143,2,27796.96,27796.96,12235.14,2,1633.53,Medium Value,Growth Opportunities
+CUST00447,Potential Loyalists,460,2,60715.29,60715.29,12488.53,2,27148.98,High Value,Growth Opportunities
+CUST00448,Champions,49,6,83828.43,83828.43,23160.82,6,1415.7,Medium Value,Medium-Value Customers
+CUST00449,Potential Loyalists,197,4,39672.98,39672.98,15624.71,4,1458.89,Medium Value,Growth Opportunities
+CUST00451,Loyal Customers,81,2,64774.04,64774.04,17190.66,2,1197.12,Medium Value,Medium-Value Customers
+CUST00452,Potential Loyalists,391,2,43117.25,43117.25,12578.16,2,8329.91,High Value,Growth Opportunities
+CUST00453,Loyal Customers,33,3,63502.38,63502.38,20616.57,3,1483.21,Medium Value,Medium-Value Customers
+CUST00455,Potential Loyalists,345,3,40972.51,40972.51,14716.1,3,3367.53,Medium Value,Growth Opportunities
+CUST00456,Potential Loyalists,434,2,81665.92,81665.92,17997.27,2,257103.86,High Value,Growth Opportunities
+CUST00457,Potential Loyalists,210,2,39184.01,39184.01,14925.09,2,3948.44,High Value,Growth Opportunities
+CUST00458,Loyal Customers,38,3,49928.47,49928.47,18561.36,3,1420.15,Medium Value,Medium-Value Customers
+CUST00459,Champions,88,4,68425.41,68425.41,17843.07,4,1382.11,Medium Value,Medium-Value Customers
+CUST00460,Potential Loyalists,13,2,22004.26,22004.26,6498.85,2,454.78,Low Value,Low-Value Customers
+CUST00461,Loyal Customers,173,2,70575.15,70575.15,24180.1,2,8006.66,High Value,Loyal High-Value
+CUST00462,Potential Loyalists,250,3,12781.0,12781.0,3525.98,3,534.24,Low Value,Low-Value Customers
+CUST00463,Potential Loyalists,36,2,14422.44,14422.44,5653.95,2,356.27,Low Value,Low-Value Customers
+CUST00464,Champions,27,6,56256.27,56256.27,18079.71,6,1234.11,Medium Value,Medium-Value Customers
+CUST00465,Loyal Customers,65,2,52320.17,52320.17,20715.32,2,1646.69,Medium Value,Medium-Value Customers
+CUST00466,Potential Loyalists,152,3,18594.35,18594.35,5820.34,3,756.87,Low Value,Low-Value Customers
+CUST00467,Loyal Customers,82,2,46668.12,46668.12,9069.86,2,10190.85,High Value,Loyal High-Value
+CUST00468,Potential Loyalists,116,4,13276.13,13276.13,4849.97,4,348.92,Low Value,Low-Value Customers
+CUST00469,Champions,98,6,57897.62,57897.62,15350.72,6,1081.8,Medium Value,Medium-Value Customers
+CUST00470,Potential Loyalists,275,4,28967.2,28967.2,10136.01,4,1291.21,Medium Value,Growth Opportunities
+CUST00471,Loyal Customers,60,4,60723.74,60723.74,20146.58,4,1443.16,Medium Value,Medium-Value Customers
+CUST00472,Loyal Customers,126,4,30231.28,30231.28,10673.18,4,855.22,Low Value,Low-Value Customers
+CUST00473,Loyal Customers,253,3,92156.87,92156.87,27962.27,3,6118.66,High Value,Loyal High-Value
+CUST00474,Champions,36,4,30363.84,30363.84,12026.4,4,813.69,Low Value,Low-Value Customers
+CUST00475,At Risk,266,2,21974.24,21974.24,4095.6,2,626.24,Low Value,Low-Value Customers
+CUST00476,At Risk,219,2,17180.13,17180.13,4003.08,2,470.4,Low Value,Low-Value Customers
+CUST00477,Needs Attention,420,1,1406.88,1406.88,617.2,1,617.2,Low Value,Low-Value / Low-Engagement
+CUST00478,Potential Loyalists,197,3,49632.43,49632.43,13140.11,3,1197.82,Medium Value,Growth Opportunities
+CUST00479,Potential Loyalists,130,2,53024.42999999999,53024.43,14843.88,2,1898.19,Medium Value,Growth Opportunities
+CUST00481,At Risk,214,2,14465.82,14465.82,2943.75,2,870.93,Low Value,Low-Value Customers
+CUST00482,Potential Loyalists,387,2,93884.22,93884.22,34566.1,2,11960.59,High Value,Growth Opportunities
+CUST00483,Potential Loyalists,62,2,19381.49,19381.49,5481.7,2,11187.14,High Value,Growth Opportunities
+CUST00484,Potential Loyalists,250,2,80810.84999999999,80810.85,29852.53,2,9568.12,High Value,Growth Opportunities
+CUST00485,Champions,26,5,76636.06,76636.06,28597.47,5,2159.93,Medium Value,Medium-Value Customers
+CUST00486,Loyal Customers,43,2,28075.76,28075.76,11375.78,2,1018.42,Medium Value,Medium-Value Customers
+CUST00487,Loyal Customers,241,5,78498.95999999999,78498.96,27829.37,5,3320.93,Medium Value,Medium-Value Customers
+CUST00488,Loyal Customers,24,3,49341.53,49341.53,19333.92,3,2279.94,Medium Value,Medium-Value Customers
+CUST00490,Champions,25,4,34771.880000000005,34771.88,11974.37,4,936.96,Low Value,Low-Value Customers
+CUST00491,Needs Attention,320,1,17198.7,17198.7,7147.01,1,7147.01,High Value,High-Value Customers
+CUST00492,Potential Loyalists,286,2,38370.9,38370.9,12025.42,2,2654.62,Medium Value,Growth Opportunities
+CUST00493,At Risk,83,1,665.91,665.91,177.18,1,177.18,Low Value,Low-Value Customers
+CUST00494,Loyal Customers,262,4,61018.84,61018.84,20585.32,4,2347.24,Medium Value,Medium-Value Customers
+CUST00495,Champions,27,4,37120.06,37120.06,7674.75,4,490.71,Low Value,Low-Value Customers
+CUST00496,Champions,98,5,126398.97,126398.97,47247.52,5,3299.41,Medium Value,Medium-Value Customers
+CUST00497,Potential Loyalists,454,3,73313.67,73313.67,33326.14,3,14681.12,High Value,Growth Opportunities
+CUST00498,Potential Loyalists,154,3,33516.19,33516.19,6799.9,3,799.05,Low Value,Low-Value Customers
+CUST00499,Needs Attention,478,1,1888.98,1888.98,417.46,1,417.46,Low Value,Low-Value / Low-Engagement
+CUST00502,Needs Attention,539,1,3075.36,3075.36,1151.46,1,1151.46,Medium Value,Medium-Value Customers
+CUST00503,At Risk,131,2,5960.71,5960.71,1844.63,2,616.93,Low Value,Low-Value Customers
+CUST00504,Champions,7,6,72100.43000000001,72100.43,32114.47,6,2420.08,Medium Value,Medium-Value Customers
+CUST00505,At Risk,403,1,59338.96,59338.96,13403.32,1,13403.32,High Value,At-Risk High-Value
+CUST00506,Champions,24,6,34082.6,34082.6,12987.77,6,890.18,Low Value,Low-Value Customers
+CUST00507,Needs Attention,487,1,574.34,574.34,109.43,1,109.43,Low Value,Low-Value / Low-Engagement
+CUST00508,Needs Attention,502,1,3389.01,3389.01,1398.15,1,1398.15,Medium Value,Medium-Value Customers
+CUST00509,Potential Loyalists,17,1,15065.42,15065.42,3740.29,1,3740.29,High Value,Growth Opportunities
+CUST00510,Potential Loyalists,66,3,8229.86,8229.86,2616.81,3,367.01,Low Value,Low-Value Customers
+CUST00511,Loyal Customers,52,3,46043.55,46043.55,13140.81,3,2778.18,Medium Value,Medium-Value Customers
+CUST00513,Champions,56,6,126503.24,126503.24,32995.19,6,3788.2,High Value,VIP Customers
+CUST00514,Potential Loyalists,70,1,25026.61,25026.61,4588.12,1,4588.12,High Value,Growth Opportunities
+CUST00515,Needs Attention,377,1,8659.52,8659.52,2399.04,1,2399.04,Medium Value,Medium-Value Customers
+CUST00516,At Risk,158,1,15053.45,15053.45,4834.33,1,4834.33,High Value,At-Risk High-Value
+CUST00517,Potential Loyalists,49,2,13891.61,13891.61,6039.0,2,1114.21,Medium Value,Growth Opportunities
+CUST00518,Loyal Customers,60,2,63132.94,63132.94,29230.66,2,4428.89,High Value,Loyal High-Value
+CUST00520,Champions,79,5,74508.04000000001,74508.04,27944.82,5,2417.37,Medium Value,Medium-Value Customers
+CUST00521,Needs Attention,513,1,20279.1,20279.1,3591.42,1,3591.42,High Value,High-Value Customers
+CUST00523,Potential Loyalists,46,1,3662.5,3662.5,1612.64,1,1612.64,Medium Value,Growth Opportunities
+CUST00524,Loyal Customers,127,2,68699.31,68699.31,23678.37,2,2356.06,Medium Value,Medium-Value Customers
+CUST00526,Loyal Customers,63,3,52283.76,52283.76,17673.98,3,1854.56,Medium Value,Medium-Value Customers
+CUST00527,Loyal Customers,36,2,75580.45999999999,75580.46,29399.86,2,2405.88,Medium Value,Medium-Value Customers
+CUST00529,Potential Loyalists,386,2,79932.1,79932.1,30730.95,2,22268.8,High Value,Growth Opportunities
+CUST00530,Needs Attention,415,1,19616.62,19616.62,7533.36,1,7533.36,High Value,High-Value Customers
+CUST00531,At Risk,316,1,24564.11,24564.11,7941.43,1,7941.43,High Value,At-Risk High-Value
+CUST00533,At Risk,130,1,1101.44,1101.44,505.96,1,505.96,Low Value,Low-Value Customers
+CUST00534,Needs Attention,479,1,2158.27,2158.27,527.52,1,527.52,Low Value,Low-Value / Low-Engagement
+CUST00535,Potential Loyalists,436,2,42744.78,42744.78,17302.64,2,30897.57,High Value,Growth Opportunities
+CUST00536,Loyal Customers,37,4,22440.94,22440.94,6376.39,4,528.72,Low Value,Low-Value Customers
+CUST00537,Potential Loyalists,31,1,715.48,715.48,140.24,1,140.24,Low Value,Low-Value Customers
+CUST00538,Champions,12,4,30834.27,30834.27,10261.31,4,685.0,Low Value,Low-Value Customers
+CUST00539,Potential Loyalists,280,2,64203.91,64203.91,18630.77,2,3681.97,High Value,Growth Opportunities
+CUST00540,Potential Loyalists,78,3,21624.24,21624.24,8131.28,3,822.17,Low Value,Low-Value Customers
+CUST00541,Loyal Customers,167,2,87783.84,87783.84,22558.0,2,3120.06,Medium Value,Medium-Value Customers
+CUST00542,Needs Attention,369,1,2633.38,2633.38,557.36,1,557.36,Low Value,Low-Value / Low-Engagement
+CUST00543,Champions,1,5,113266.59,113266.59,25459.13,5,1470.78,Medium Value,Medium-Value Customers
+CUST00544,Champions,25,4,124781.93,124781.93,47945.7,4,3073.44,Medium Value,Medium-Value Customers
+CUST00545,Loyal Customers,70,3,39789.87,39789.87,11377.98,3,1680.65,Medium Value,Medium-Value Customers
+CUST00546,Champions,75,4,55365.1,55365.1,13730.26,4,976.55,Medium Value,Medium-Value Customers
+CUST00547,Loyal Customers,1,3,38670.29,38670.29,14948.93,3,1873.3,Medium Value,Medium-Value Customers
+CUST00548,Loyal Customers,75,3,54922.22,54922.22,17930.13,3,2587.32,Medium Value,Medium-Value Customers
+CUST00550,Potential Loyalists,64,2,27228.1,27228.1,9382.66,2,958.39,Medium Value,Growth Opportunities
+CUST00551,Champions,85,4,86358.04000000001,86358.04,34925.58,4,4830.65,High Value,VIP Customers
+CUST00552,Potential Loyalists,114,3,31745.97,31745.97,12497.27,3,1222.82,Medium Value,Growth Opportunities
+CUST00553,Champions,71,4,133114.77,133114.77,40494.59,4,2775.5,Medium Value,Medium-Value Customers
+CUST00554,Loyal Customers,31,4,23053.08,23053.08,7636.95,4,756.88,Low Value,Low-Value Customers
+CUST00556,At Risk,116,1,3807.66,3807.66,1190.8,1,1190.8,Medium Value,Medium-Value Customers
+CUST00557,Potential Loyalists,186,2,31612.57,31612.57,10600.46,2,5047.84,High Value,Growth Opportunities
+CUST00558,Champions,45,4,54133.14,54133.14,14321.54,4,1050.74,Medium Value,Medium-Value Customers
+CUST00559,Loyal Customers,104,5,20156.68,20156.68,7183.49,5,500.24,Low Value,Low-Value Customers
+CUST00560,Potential Loyalists,162,3,27949.11,27949.11,8531.82,3,741.9,Low Value,Low-Value Customers
+CUST00561,Champions,2,3,88295.51000000001,88295.51,36602.49,3,2331.37,Medium Value,Medium-Value Customers
+CUST00562,At Risk,225,2,16714.52,16714.52,3162.3,2,2180.9,Medium Value,Medium-Value Customers
+CUST00563,Potential Loyalists,61,2,17022.95,17022.95,2976.51,2,450.99,Low Value,Low-Value Customers
+CUST00564,At Risk,118,1,1020.21,1020.21,343.0,1,343.0,Low Value,Low-Value Customers
+CUST00565,Potential Loyalists,312,4,16175.47,16175.47,3677.89,4,478.27,Low Value,Low-Value Customers
+CUST00566,Loyal Customers,42,2,34955.47,34955.47,8641.08,2,26185.09,High Value,Loyal High-Value
+CUST00567,Potential Loyalists,51,3,11952.49,11952.49,4204.04,3,344.88,Low Value,Low-Value Customers
+CUST00568,Needs Attention,201,1,3277.5,3277.5,1531.81,1,1531.81,Medium Value,Medium-Value Customers
+CUST00569,Potential Loyalists,156,2,19850.82,19850.82,8564.36,2,1959.81,Medium Value,Growth Opportunities
+CUST00570,Champions,19,5,49812.67,49812.67,17402.82,5,1072.26,Medium Value,Medium-Value Customers
+CUST00571,Potential Loyalists,166,3,27967.9,27967.9,8785.15,3,870.68,Low Value,Low-Value Customers
+CUST00572,Loyal Customers,172,3,62669.33,62669.33,24891.15,3,2346.01,Medium Value,Medium-Value Customers
+CUST00573,Potential Loyalists,96,2,6759.120000000001,6759.12,2013.19,2,141.87,Low Value,Low-Value Customers
+CUST00574,At Risk,330,1,33896.07,33896.07,8175.58,1,8175.58,High Value,At-Risk High-Value
+CUST00575,Potential Loyalists,320,3,36324.49,36324.49,8075.78,3,2728.3,Medium Value,Growth Opportunities
+CUST00576,At Risk,377,3,23769.06,23769.06,10440.0,3,4126.48,High Value,At-Risk High-Value
+CUST00578,Champions,5,4,48840.990000000005,48840.99,13452.13,4,888.52,Low Value,Low-Value Customers
+CUST00580,Potential Loyalists,11,2,8102.25,8102.25,3270.13,2,190.01,Low Value,Low-Value Customers
+CUST00581,Loyal Customers,57,3,32193.660000000003,32193.66,11887.37,3,2067.37,Medium Value,Medium-Value Customers
+CUST00582,Needs Attention,501,1,3597.07,3597.07,1499.13,1,1499.13,Medium Value,Medium-Value Customers
+CUST00583,Potential Loyalists,301,3,24504.93,24504.93,7619.72,3,1656.46,Medium Value,Growth Opportunities
+CUST00584,At Risk,313,1,45855.91,45855.91,16475.69,1,16475.69,High Value,At-Risk High-Value
+CUST00585,Loyal Customers,156,3,85125.23999999999,85125.24,29253.09,3,2834.6,Medium Value,Medium-Value Customers
+CUST00587,Loyal Customers,35,2,49176.77,49176.77,11145.3,2,1094.82,Medium Value,Medium-Value Customers
+CUST00588,Potential Loyalists,191,2,56879.52,56879.52,10239.99,2,1207.55,Medium Value,Growth Opportunities
+CUST00589,Loyal Customers,73,3,108019.72,108019.72,43803.2,3,2983.87,Medium Value,Medium-Value Customers
+CUST00590,Loyal Customers,131,4,64187.55,64187.55,22149.27,4,1672.91,Medium Value,Medium-Value Customers
+CUST00591,Champions,1,5,33377.79,33377.79,7892.71,5,511.19,Low Value,Low-Value Customers
+CUST00592,Potential Loyalists,170,3,20265.97,20265.97,6736.84,3,5709.19,High Value,Growth Opportunities
+CUST00593,At Risk,504,1,56456.89,56456.89,23895.21,1,23895.21,High Value,At-Risk High-Value
+CUST00594,Needs Attention,215,1,3663.11,3663.11,701.52,1,701.52,Low Value,Low-Value / Low-Engagement
+CUST00595,Potential Loyalists,51,1,16694.54,16694.54,3450.83,1,3450.83,High Value,Growth Opportunities
+CUST00596,At Risk,223,2,5682.04,5682.04,1832.35,2,303.37,Low Value,Low-Value Customers
+CUST00597,Needs Attention,275,1,11042.53,11042.53,5286.56,1,5286.56,High Value,High-Value Customers
+CUST00598,Potential Loyalists,239,2,91250.07,91250.07,26532.24,2,17927.19,High Value,Growth Opportunities
+CUST00599,Champions,150,6,144320.58,144320.58,44174.25,6,5271.39,High Value,VIP Customers
+CUST00602,At Risk,436,2,38523.48,38523.48,10437.45,2,8154.26,High Value,At-Risk High-Value
+CUST00603,Loyal Customers,39,3,34749.520000000004,34749.52,14153.78,3,1275.12,Medium Value,Medium-Value Customers
+CUST00604,Potential Loyalists,137,2,66099.31,66099.31,23065.12,2,2046.59,Medium Value,Growth Opportunities
+CUST00605,Potential Loyalists,86,2,37690.92,37690.92,15116.64,2,3264.93,Medium Value,Growth Opportunities
+CUST00607,Loyal Customers,110,3,45844.67,45844.67,16067.45,3,1366.28,Medium Value,Medium-Value Customers
+CUST00608,Potential Loyalists,52,3,16433.2,16433.2,5899.85,3,1102.78,Medium Value,Growth Opportunities
+CUST00609,Needs Attention,214,1,9503.42,9503.42,4021.99,1,4021.99,High Value,High-Value Customers
+CUST00610,Champions,138,4,96286.01,96286.01,42159.24,4,3343.32,Medium Value,Medium-Value Customers
+CUST00611,At Risk,317,1,26583.97,26583.97,4973.73,1,4973.73,High Value,At-Risk High-Value
+CUST00612,Potential Loyalists,121,2,35214.94,35214.94,8037.77,2,656.14,Low Value,Low-Value Customers
+CUST00613,Potential Loyalists,112,2,18030.620000000003,18030.62,5314.31,2,766.86,Low Value,Low-Value Customers
+CUST00614,Loyal Customers,204,5,129236.84,129236.84,44119.39,5,4291.77,High Value,Loyal High-Value
+CUST00615,At Risk,167,2,8786.17,8786.17,2030.99,2,1880.55,Medium Value,Medium-Value Customers
+CUST00616,At Risk,505,2,27058.25,27058.25,8130.74,2,11783.68,High Value,At-Risk High-Value
+CUST00617,Potential Loyalists,61,3,20065.44,20065.44,6949.2,3,1763.76,Medium Value,Growth Opportunities
+CUST00618,Loyal Customers,41,3,38111.89,38111.89,15346.35,3,1428.9,Medium Value,Medium-Value Customers
+CUST00619,At Risk,247,2,9982.17,9982.17,3853.57,2,4699.48,High Value,At-Risk High-Value
+CUST00620,Potential Loyalists,30,1,4334.55,4334.55,1131.04,1,1131.04,Medium Value,Growth Opportunities
+CUST00622,Needs Attention,327,1,9771.98,9771.98,2356.91,1,2356.91,Medium Value,Medium-Value Customers
+CUST00623,Potential Loyalists,112,2,40156.85,40156.85,9737.75,2,2369.28,Medium Value,Growth Opportunities
+CUST00624,Loyal Customers,150,3,107913.34,107913.34,37144.42,3,3090.22,Medium Value,Medium-Value Customers
+CUST00625,Needs Attention,236,1,3402.25,3402.25,754.73,1,754.73,Low Value,Low-Value / Low-Engagement
+CUST00626,Champions,5,4,56484.99,56484.99,16597.95,4,1990.16,Medium Value,Medium-Value Customers
+CUST00627,Champions,82,4,43351.2,43351.2,13519.6,4,898.31,Low Value,Low-Value Customers
+CUST00629,Potential Loyalists,163,2,52532.630000000005,52532.63,13435.86,2,44786.2,High Value,Growth Opportunities
+CUST00630,Potential Loyalists,93,2,25629.08,25629.08,6185.87,2,1012.42,Medium Value,Growth Opportunities
+CUST00631,Potential Loyalists,205,3,50560.26,50560.26,10175.68,3,1415.25,Medium Value,Growth Opportunities
+CUST00632,Needs Attention,338,2,11027.25,11027.25,4125.43,2,972.98,Medium Value,Medium-Value Customers
+CUST00633,Loyal Customers,13,3,49233.43,49233.43,21501.65,3,1413.65,Medium Value,Medium-Value Customers
+CUST00634,Potential Loyalists,48,2,5771.97,5771.97,1456.79,2,280.69,Low Value,Low-Value Customers
+CUST00635,Loyal Customers,185,3,80763.47,80763.47,18099.16,3,2689.33,Medium Value,Medium-Value Customers
+CUST00636,At Risk,67,1,10613.12,10613.12,4452.19,1,4452.19,High Value,At-Risk High-Value
+CUST00637,Potential Loyalists,84,2,20152.77,20152.77,6740.88,2,1316.58,Medium Value,Growth Opportunities
+CUST00638,Needs Attention,452,1,4237.19,4237.19,1952.32,1,1952.32,Medium Value,Medium-Value Customers
+CUST00639,Loyal Customers,13,3,19142.53,19142.53,4072.2,3,518.75,Low Value,Low-Value Customers
+CUST00641,Loyal Customers,85,3,43216.08,43216.08,15958.49,3,2714.03,Medium Value,Medium-Value Customers
+CUST00643,Champions,2,4,83253.03,83253.03,29504.3,4,2144.21,Medium Value,Medium-Value Customers
+CUST00645,Potential Loyalists,212,3,15627.46,15627.46,3385.96,3,393.26,Low Value,Low-Value Customers
+CUST00646,Needs Attention,318,1,12284.19,12284.19,4415.78,1,4415.78,High Value,High-Value Customers
+CUST00647,At Risk,109,1,1321.73,1321.73,265.78,1,265.78,Low Value,Low-Value Customers
+CUST00648,Potential Loyalists,444,2,85587.76,85587.76,31230.34,2,45261.36,High Value,Growth Opportunities
+CUST00649,Potential Loyalists,311,2,41388.96,41388.96,17113.72,2,4527.44,High Value,Growth Opportunities
+CUST00650,At Risk,150,1,2089.32,2089.32,782.86,1,782.86,Low Value,Low-Value Customers
+CUST00651,Potential Loyalists,84,2,4107.8,4107.8,1774.43,2,204.66,Low Value,Low-Value Customers
+CUST00652,Needs Attention,532,1,3592.79,3592.79,1324.47,1,1324.47,Medium Value,Medium-Value Customers
+CUST00653,Needs Attention,299,1,10676.77,10676.77,2539.33,1,2539.33,Medium Value,Medium-Value Customers
+CUST00654,At Risk,137,1,13746.93,13746.93,5179.47,1,5179.47,High Value,At-Risk High-Value
+CUST00655,Champions,30,3,64703.2,64703.2,20513.42,3,1674.56,Medium Value,Medium-Value Customers
+CUST00657,Loyal Customers,14,3,27381.88,27381.88,11793.04,3,694.53,Low Value,Low-Value Customers
+CUST00658,Needs Attention,417,1,14922.79,14922.79,3112.92,1,3112.92,Medium Value,Medium-Value Customers
+CUST00659,Loyal Customers,101,5,35340.09,35340.09,9112.75,5,651.38,Low Value,Low-Value Customers
+CUST00660,Loyal Customers,191,4,53621.26,53621.26,18216.33,4,4743.84,High Value,Loyal High-Value
+CUST00661,Loyal Customers,45,2,70469.33,70469.33,19748.18,2,1866.56,Medium Value,Medium-Value Customers
+CUST00662,At Risk,271,2,20780.68,20780.68,8327.25,2,14870.09,High Value,At-Risk High-Value
+CUST00664,Potential Loyalists,149,2,13766.89,13766.89,3700.81,2,1762.29,Medium Value,Growth Opportunities
+CUST00665,At Risk,121,2,11344.67,11344.67,3290.73,2,4769.17,High Value,At-Risk High-Value
+CUST00666,Loyal Customers,96,4,22941.09,22941.09,8901.67,4,617.31,Low Value,Low-Value Customers
+CUST00667,Loyal Customers,103,3,63998.060000000005,63998.06,15409.92,3,1253.86,Medium Value,Medium-Value Customers
+CUST00668,Needs Attention,350,1,12302.16,12302.16,4133.54,1,4133.54,High Value,High-Value Customers
+CUST00669,Potential Loyalists,236,2,88689.25,88689.25,33953.11,2,10882.41,High Value,Growth Opportunities
+CUST00670,At Risk,58,1,4311.54,4311.54,1496.3,1,1496.3,Medium Value,Medium-Value Customers
+CUST00671,Loyal Customers,74,3,53436.52,53436.52,16330.73,3,1172.34,Medium Value,Medium-Value Customers
+CUST00672,Needs Attention,215,1,1061.45,1061.45,281.17,1,281.17,Low Value,Low-Value / Low-Engagement
+CUST00673,At Risk,319,1,26429.68,26429.68,5401.15,1,5401.15,High Value,At-Risk High-Value
+CUST00674,Loyal Customers,125,4,56727.13,56727.13,16352.13,4,2243.09,Medium Value,Medium-Value Customers
+CUST00675,Needs Attention,345,1,12199.49,12199.49,3050.81,1,3050.81,Medium Value,Medium-Value Customers
+CUST00676,Potential Loyalists,232,2,66040.93,66040.93,24904.99,2,3972.09,High Value,Growth Opportunities
+CUST00677,Champions,19,4,54655.99,54655.99,19622.94,4,1382.87,Medium Value,Medium-Value Customers
+CUST00678,Loyal Customers,115,3,112345.94,112345.94,43625.98,3,8093.87,High Value,Loyal High-Value
+CUST00680,Potential Loyalists,240,3,14272.75,14272.75,4297.18,3,446.23,Low Value,Low-Value Customers
+CUST00681,Potential Loyalists,185,2,89929.89,89929.89,35674.48,2,22578.78,High Value,Growth Opportunities
+CUST00682,Loyal Customers,120,3,33281.29,33281.29,11002.52,3,956.74,Medium Value,Medium-Value Customers
+CUST00683,Champions,15,8,160335.25,160335.25,33833.27,8,2926.75,Medium Value,Medium-Value Customers
+CUST00684,Potential Loyalists,195,2,102647.9,102647.9,37765.12,2,125883.73,High Value,Growth Opportunities
+CUST00685,At Risk,325,1,39151.31,39151.31,18321.45,1,18321.45,High Value,At-Risk High-Value
+CUST00686,Potential Loyalists,113,2,25945.24,25945.24,4914.81,2,4914.81,High Value,Growth Opportunities
+CUST00687,Potential Loyalists,15,2,7300.710000000001,7300.71,2940.45,2,214.16,Low Value,Low-Value Customers
+CUST00688,Needs Attention,201,1,2706.26,2706.26,1117.01,1,1117.01,Medium Value,Medium-Value Customers
+CUST00689,Loyal Customers,173,2,107416.05,107416.05,44399.54,2,17343.57,High Value,Loyal High-Value
+CUST00690,Champions,87,6,98182.23,98182.23,41657.79,6,3092.63,Medium Value,Medium-Value Customers
+CUST00691,Needs Attention,369,1,8462.53,8462.53,3757.78,1,3757.78,High Value,High-Value Customers
+CUST00693,Loyal Customers,273,4,51243.58,51243.58,12738.51,4,2242.7,Medium Value,Medium-Value Customers
+CUST00694,Champions,86,3,81336.96,81336.96,33676.34,3,2576.61,Medium Value,Medium-Value Customers
+CUST00695,Needs Attention,477,1,8100.2,8100.2,2606.97,1,2606.97,Medium Value,Medium-Value Customers
+CUST00696,Potential Loyalists,114,2,21835.0,21835.0,8824.46,2,742.17,Low Value,Low-Value Customers
+CUST00697,Potential Loyalists,144,2,13090.71,13090.71,4935.42,2,9312.11,High Value,Growth Opportunities
+CUST00698,Champions,34,4,34836.3,34836.3,10199.98,4,670.61,Low Value,Low-Value Customers
+CUST00699,At Risk,266,1,18812.61,18812.61,7052.06,1,7052.06,High Value,At-Risk High-Value
+CUST00700,Potential Loyalists,78,2,8690.04,8690.04,2303.03,2,834.43,Low Value,Low-Value Customers
+CUST00701,At Risk,312,2,13150.93,13150.93,5513.95,2,1598.25,Medium Value,Medium-Value Customers
+CUST00702,Loyal Customers,68,3,45094.27,45094.27,15014.66,3,1070.18,Medium Value,Medium-Value Customers
+CUST00704,Loyal Customers,56,4,36589.64,36589.64,8017.92,4,632.33,Low Value,Low-Value Customers
+CUST00705,Champions,5,8,106026.44,106026.44,27399.75,8,2010.25,Medium Value,Medium-Value Customers
+CUST00706,Potential Loyalists,65,2,7217.74,7217.74,3055.51,2,194.12,Low Value,Low-Value Customers
+CUST00707,Needs Attention,337,1,2652.35,2652.35,789.87,1,789.87,Low Value,Low-Value / Low-Engagement
+CUST00708,Champions,6,3,93258.52,93258.52,21449.55,3,5876.59,High Value,VIP Customers
+CUST00709,Champions,30,3,43698.67,43698.67,13010.51,3,1237.92,Medium Value,Medium-Value Customers
+CUST00710,Potential Loyalists,152,2,46679.69,46679.69,18954.8,2,2477.75,Medium Value,Growth Opportunities
+CUST00711,Potential Loyalists,9,1,15346.57,15346.57,3707.6,1,3707.6,High Value,Growth Opportunities
+CUST00712,Needs Attention,480,1,12651.95,12651.95,4664.91,1,4664.91,High Value,High-Value Customers
+CUST00713,At Risk,109,1,8497.46,8497.46,3743.85,1,3743.85,High Value,At-Risk High-Value
+CUST00714,Needs Attention,526,1,17511.44,17511.44,7591.59,1,7591.59,High Value,High-Value Customers
+CUST00715,Champions,12,3,85663.04,85663.04,33421.21,3,3312.31,Medium Value,Medium-Value Customers
+CUST00716,At Risk,390,2,13484.92,13484.92,4350.94,2,1250.27,Medium Value,Medium-Value Customers
+CUST00717,Potential Loyalists,53,2,13951.85,13951.85,6095.59,2,596.44,Low Value,Low-Value Customers
+CUST00718,Needs Attention,179,1,8621.15,8621.15,3834.98,1,3834.98,High Value,High-Value Customers
+CUST00719,Loyal Customers,219,3,58172.9,58172.9,20022.01,3,4206.3,High Value,Loyal High-Value
+CUST00720,Loyal Customers,19,3,33062.36,33062.36,7224.98,3,481.34,Low Value,Low-Value Customers
+CUST00721,Loyal Customers,35,2,49493.96,49493.96,13782.16,2,1046.48,Medium Value,Medium-Value Customers
+CUST00722,Potential Loyalists,390,3,56740.65,56740.65,23578.44,3,7807.43,High Value,Growth Opportunities
+CUST00723,Needs Attention,419,1,1127.83,1127.83,537.81,1,537.81,Low Value,Low-Value / Low-Engagement
+CUST00724,Champions,27,6,60294.08,60294.08,18062.98,6,1195.43,Medium Value,Medium-Value Customers
+CUST00725,Loyal Customers,261,4,32214.74,32214.74,12375.52,4,1384.29,Medium Value,Medium-Value Customers
+CUST00727,Potential Loyalists,194,4,23648.26,23648.26,7131.47,4,700.54,Low Value,Low-Value Customers
+CUST00728,Loyal Customers,56,3,59917.4,59917.4,26326.97,3,2893.07,Medium Value,Medium-Value Customers
+CUST00729,Needs Attention,313,2,7067.75,7067.75,2169.42,2,443.64,Low Value,Low-Value / Low-Engagement
+CUST00730,Loyal Customers,179,3,151103.81,151103.81,58647.44,3,9294.36,High Value,Loyal High-Value
+CUST00731,Loyal Customers,48,5,21277.67,21277.67,6121.91,5,482.8,Low Value,Low-Value Customers
+CUST00732,Champions,152,4,102940.12,102940.12,39805.35,4,3131.81,Medium Value,Medium-Value Customers
+CUST00733,Potential Loyalists,250,2,25017.01,25017.01,8270.72,2,2794.16,Medium Value,Growth Opportunities
+CUST00734,Loyal Customers,343,3,98873.61000000002,98873.61,38597.63,3,11187.72,High Value,Loyal High-Value
+CUST00735,Needs Attention,516,1,20131.49,20131.49,7088.78,1,7088.78,High Value,High-Value Customers
+CUST00737,Champions,122,7,163127.74,163127.74,57672.11,7,4643.49,High Value,VIP Customers
+CUST00738,Potential Loyalists,201,1,61949.86,61949.86,28735.52,1,28735.52,High Value,Growth Opportunities
+CUST00740,At Risk,327,2,35804.45,35804.45,13778.11,2,2396.19,Medium Value,Medium-Value Customers
+CUST00741,Loyal Customers,201,3,72255.84,72255.84,19198.62,3,4948.1,High Value,Loyal High-Value
+CUST00742,Potential Loyalists,161,2,39320.060000000005,39320.06,7301.03,2,644.4,Low Value,Low-Value Customers
+CUST00743,Needs Attention,455,1,768.8,768.8,342.84,1,342.84,Low Value,Low-Value / Low-Engagement
+CUST00744,At Risk,133,1,15606.91,15606.91,2967.98,1,2967.98,Medium Value,Medium-Value Customers
+CUST00745,Potential Loyalists,262,2,27078.74,27078.74,9184.08,2,3452.66,High Value,Growth Opportunities
+CUST00746,Potential Loyalists,204,3,25930.1,25930.1,6354.03,3,779.64,Low Value,Low-Value Customers
+CUST00747,Loyal Customers,137,3,77760.38,77760.38,18801.42,3,2579.07,Medium Value,Medium-Value Customers
+CUST00749,Champions,88,8,99658.36,99658.36,30294.53,8,2650.44,Medium Value,Medium-Value Customers
+CUST00750,At Risk,237,2,5809.53,5809.53,1609.94,2,245.04,Low Value,Low-Value Customers
+CUST00751,Needs Attention,256,1,3336.99,3336.99,1597.97,1,1597.97,Medium Value,Medium-Value Customers
+CUST00752,Loyal Customers,134,3,51531.61,51531.61,24310.03,3,4227.83,High Value,Loyal High-Value
+CUST00753,Loyal Customers,176,5,39824.01,39824.01,12379.39,5,1021.4,Medium Value,Medium-Value Customers
+CUST00754,Potential Loyalists,260,3,22134.79,22134.79,8376.01,3,1583.37,Medium Value,Growth Opportunities
+CUST00755,Champions,52,5,41202.66,41202.66,10110.22,5,627.96,Low Value,Low-Value Customers
+CUST00756,Champions,48,3,92533.95,92533.95,32575.72,3,3552.42,High Value,VIP Customers
+CUST00757,Potential Loyalists,109,2,13493.47,13493.47,4968.07,2,5400.08,High Value,Growth Opportunities
+CUST00758,Needs Attention,347,1,8342.31,8342.31,2791.78,1,2791.78,Medium Value,Medium-Value Customers
+CUST00759,Loyal Customers,58,3,18285.32,18285.32,4702.37,3,757.23,Low Value,Low-Value Customers
+CUST00760,Potential Loyalists,204,3,21849.81,21849.81,6724.62,3,2155.33,Medium Value,Growth Opportunities
+CUST00761,At Risk,131,1,13184.79,13184.79,4877.49,1,4877.49,High Value,At-Risk High-Value
+CUST00762,Loyal Customers,84,3,41066.64,41066.64,13562.38,3,1371.32,Medium Value,Medium-Value Customers
+CUST00763,Champions,3,4,59521.11,59521.11,17036.19,4,1605.67,Medium Value,Medium-Value Customers
+CUST00764,At Risk,144,1,4709.7,4709.7,1965.09,1,1965.09,Medium Value,Medium-Value Customers
+CUST00765,At Risk,177,1,10477.54,10477.54,2793.21,1,2793.21,Medium Value,Medium-Value Customers
+CUST00766,Needs Attention,207,1,5961.12,5961.12,1976.36,1,1976.36,Medium Value,Medium-Value Customers
+CUST00767,Needs Attention,358,1,7879.03,7879.03,3352.51,1,3352.51,Medium Value,Medium-Value Customers
+CUST00768,At Risk,302,2,26437.04,26437.04,10747.74,2,1703.29,Medium Value,Medium-Value Customers
+CUST00769,Potential Loyalists,216,1,48080.01,48080.01,20463.16,1,20463.16,High Value,Growth Opportunities
+CUST00770,Loyal Customers,48,3,21021.74,21021.74,6277.12,3,474.1,Low Value,Low-Value Customers
+CUST00771,Loyal Customers,81,3,33683.45,33683.45,8621.2,3,588.48,Low Value,Low-Value Customers
+CUST00772,Champions,75,3,73386.25,73386.25,29022.69,3,2026.72,Medium Value,Medium-Value Customers
+CUST00773,Loyal Customers,101,5,27177.69,27177.69,9888.53,5,758.32,Low Value,Low-Value Customers
+CUST00774,Needs Attention,312,1,3753.54,3753.54,1765.87,1,1765.87,Medium Value,Medium-Value Customers
+CUST00775,At Risk,168,2,8309.3,8309.3,2581.87,2,269.23,Low Value,Low-Value Customers
+CUST00776,Loyal Customers,78,3,31087.73,31087.73,9052.46,3,866.26,Low Value,Low-Value Customers
+CUST00777,At Risk,173,1,4312.43,4312.43,989.71,1,989.71,Medium Value,Medium-Value Customers
+CUST00778,Needs Attention,335,2,7874.74,7874.74,3264.01,2,777.15,Low Value,Low-Value / Low-Engagement
+CUST00779,Loyal Customers,116,5,31111.48,31111.48,8638.83,5,796.94,Low Value,Low-Value Customers
+CUST00780,Loyal Customers,55,3,24947.39,24947.39,8378.83,3,730.5,Low Value,Low-Value Customers
+CUST00781,Loyal Customers,107,3,68066.23999999999,68066.24,20101.62,3,1728.43,Medium Value,Medium-Value Customers
+CUST00782,Champions,30,4,37183.81,37183.81,14447.29,4,933.89,Low Value,Low-Value Customers
+CUST00783,Needs Attention,335,1,6405.71,6405.71,2400.37,1,2400.37,Medium Value,Medium-Value Customers
+CUST00784,Loyal Customers,51,2,55406.08,55406.08,10422.37,2,2618.69,Medium Value,Medium-Value Customers
+CUST00785,Champions,53,6,55291.09,55291.09,17121.61,6,1081.59,Medium Value,Medium-Value Customers
+CUST00786,Needs Attention,206,1,6041.27,6041.27,1665.44,1,1665.44,Medium Value,Medium-Value Customers
+CUST00788,At Risk,263,1,25162.16,25162.16,10727.24,1,10727.24,High Value,At-Risk High-Value
+CUST00790,Loyal Customers,218,3,115991.32,115991.32,32172.25,3,3655.94,High Value,Loyal High-Value
+CUST00791,Potential Loyalists,121,2,35032.74,35032.74,12870.54,2,16291.82,High Value,Growth Opportunities
+CUST00792,Loyal Customers,141,3,34067.48,34067.48,12070.96,3,1303.56,Medium Value,Medium-Value Customers
+CUST00793,Champions,19,6,148632.91,148632.91,43824.04,6,2565.81,Medium Value,Medium-Value Customers
+CUST00794,Loyal Customers,168,3,43128.31,43128.31,15389.09,3,1423.6,Medium Value,Medium-Value Customers
+CUST00795,At Risk,234,2,22592.29,22592.29,5573.33,2,767.68,Low Value,Low-Value Customers
+CUST00796,Needs Attention,424,1,6064.04,6064.04,2727.13,1,2727.13,Medium Value,Medium-Value Customers
+CUST00797,Needs Attention,310,1,13456.24,13456.24,2623.06,1,2623.06,Medium Value,Medium-Value Customers
+CUST00798,Loyal Customers,94,4,32647.55,32647.55,10021.38,4,1332.63,Medium Value,Medium-Value Customers
+CUST00799,Potential Loyalists,187,2,78103.0,78103.0,19247.23,2,5376.32,High Value,Growth Opportunities
+CUST00800,At Risk,79,1,5566.67,5566.67,1931.88,1,1931.88,Medium Value,Medium-Value Customers
+CUST00801,Loyal Customers,35,4,21031.95,21031.95,6529.25,4,638.87,Low Value,Low-Value Customers
+CUST00802,Loyal Customers,126,3,28309.120000000003,28309.12,10553.16,3,1060.62,Medium Value,Medium-Value Customers
+CUST00803,At Risk,169,1,5013.44,5013.44,1890.5,1,1890.5,Medium Value,Medium-Value Customers
+CUST00804,Potential Loyalists,105,2,43388.57,43388.57,15257.84,2,8159.27,High Value,Growth Opportunities
+CUST00805,Loyal Customers,248,3,62538.08,62538.08,19429.84,3,2494.2,Medium Value,Medium-Value Customers
+CUST00806,Potential Loyalists,68,2,9952.26,9952.26,2340.92,2,220.63,Low Value,Low-Value Customers
+CUST00807,Needs Attention,386,2,7642.110000000001,7642.11,1784.2,2,861.93,Low Value,Low-Value / Low-Engagement
+CUST00808,At Risk,166,1,17312.41,17312.41,8091.12,1,8091.12,High Value,At-Risk High-Value
+CUST00809,Needs Attention,346,1,13980.41,13980.41,2866.19,1,2866.19,Medium Value,Medium-Value Customers
+CUST00810,Needs Attention,486,1,13766.35,13766.35,3882.68,1,3882.68,High Value,High-Value Customers
+CUST00811,Loyal Customers,198,3,80591.58,80591.58,30338.74,3,2791.05,Medium Value,Medium-Value Customers
+CUST00812,At Risk,216,1,19672.96,19672.96,8349.75,1,8349.75,High Value,At-Risk High-Value
+CUST00813,Potential Loyalists,114,2,12573.55,12573.55,4589.36,2,337.45,Low Value,Low-Value Customers
+CUST00814,At Risk,60,1,4001.54,4001.54,1221.91,1,1221.91,Medium Value,Medium-Value Customers
+CUST00815,Champions,27,3,41847.25,41847.25,17553.15,3,1649.73,Medium Value,Medium-Value Customers
+CUST00816,Potential Loyalists,190,3,29613.38,29613.38,7565.27,3,1056.6,Medium Value,Growth Opportunities
+CUST00817,At Risk,154,1,2892.62,2892.62,740.58,1,740.58,Low Value,Low-Value Customers
+CUST00818,Needs Attention,423,1,1287.11,1287.11,266.61,1,266.61,Low Value,Low-Value / Low-Engagement
+CUST00819,Champions,36,3,74024.97,74024.97,29797.42,3,1843.9,Medium Value,Medium-Value Customers
+CUST00821,Potential Loyalists,82,1,18626.29,18626.29,6880.07,1,6880.07,High Value,Growth Opportunities
+CUST00822,At Risk,492,1,25874.98,25874.98,10224.45,1,10224.45,High Value,At-Risk High-Value
+CUST00823,Champions,38,5,57994.03,57994.03,21520.31,5,1429.92,Medium Value,Medium-Value Customers
+CUST00824,Potential Loyalists,160,2,42615.34,42615.34,12567.36,2,1226.08,Medium Value,Growth Opportunities
+CUST00825,Champions,24,5,71724.81,71724.81,24512.62,5,1639.64,Medium Value,Medium-Value Customers
+CUST00826,At Risk,471,1,66532.34,66532.34,20700.23,1,20700.23,High Value,At-Risk High-Value
+CUST00827,Potential Loyalists,146,2,45032.41,45032.41,9081.15,2,860.77,Low Value,Low-Value Customers
+CUST00828,Champions,4,4,29470.52,29470.52,11322.53,4,656.38,Low Value,Low-Value Customers
+CUST00829,Needs Attention,201,1,3434.33,3434.33,986.2,1,986.2,Medium Value,Medium-Value Customers
+CUST00831,Potential Loyalists,91,2,31477.42,31477.42,11564.55,2,12570.16,High Value,Growth Opportunities
+CUST00832,Loyal Customers,152,3,39436.75,39436.75,14815.06,3,5698.1,High Value,Loyal High-Value
+CUST00833,At Risk,249,2,17495.09,17495.09,5696.94,2,1008.31,Medium Value,Medium-Value Customers
+CUST00834,Loyal Customers,108,3,45376.77,45376.77,13039.44,3,2180.51,Medium Value,Medium-Value Customers
+CUST00835,Loyal Customers,131,4,19891.43,19891.43,5450.85,4,783.17,Low Value,Low-Value Customers
+CUST00836,Needs Attention,505,1,23231.62,23231.62,4850.39,1,4850.39,High Value,High-Value Customers
+CUST00837,Potential Loyalists,202,2,67349.73999999999,67349.74,24801.17,2,155007.31,High Value,Growth Opportunities
+CUST00838,Champions,58,5,132443.77000000002,132443.77,41112.95,5,2817.89,Medium Value,Medium-Value Customers
+CUST00839,Champions,89,4,164057.7,164057.7,66246.57,4,6815.49,High Value,VIP Customers
+CUST00840,Needs Attention,476,1,2997.32,2997.32,645.8,1,645.8,Low Value,Low-Value / Low-Engagement
+CUST00841,Champions,85,4,53663.66,53663.66,14630.33,4,1662.54,Medium Value,Medium-Value Customers
+CUST00842,Loyal Customers,57,3,39856.99,39856.99,9218.64,3,1140.92,Medium Value,Medium-Value Customers
+CUST00843,Loyal Customers,124,4,48895.53,48895.53,20625.97,4,2432.31,Medium Value,Medium-Value Customers
+CUST00844,Champions,75,4,69660.6,69660.6,27380.35,4,2028.17,Medium Value,Medium-Value Customers
+CUST00845,Potential Loyalists,252,2,36239.5,36239.5,9175.3,2,4170.59,High Value,Growth Opportunities
+CUST00846,Loyal Customers,53,2,59160.72,59160.72,23032.03,2,1457.72,Medium Value,Medium-Value Customers
+CUST00847,Potential Loyalists,362,2,47509.57,47509.57,12435.03,2,11102.71,High Value,Growth Opportunities
+CUST00849,Champions,1,4,108699.68,108699.68,46407.07,4,6220.79,High Value,VIP Customers
+CUST00850,Loyal Customers,304,4,47359.79,47359.79,14791.52,4,4947.0,High Value,Loyal High-Value
+CUST00851,Needs Attention,204,1,7223.75,7223.75,2507.1,1,2507.1,Medium Value,Medium-Value Customers
+CUST00852,Champions,42,5,107850.71,107850.71,26730.03,5,7815.8,High Value,VIP Customers
+CUST00853,Champions,100,5,64409.61,64409.61,15590.37,5,1140.48,Medium Value,Medium-Value Customers
+CUST00854,Champions,12,7,80761.93000000001,80761.93,26188.65,7,1903.24,Medium Value,Medium-Value Customers
+CUST00855,Potential Loyalists,271,3,21405.3,21405.3,6952.27,3,769.91,Low Value,Low-Value Customers
+CUST00857,Loyal Customers,215,4,64055.4,64055.4,23157.08,4,3612.65,High Value,Loyal High-Value
+CUST00858,Potential Loyalists,70,2,24633.18,24633.18,7380.57,2,2645.37,Medium Value,Growth Opportunities
+CUST00859,Potential Loyalists,119,2,19235.32,19235.32,6727.15,2,2008.1,Medium Value,Growth Opportunities
+CUST00860,Loyal Customers,165,3,40349.43,40349.43,9630.48,3,877.89,Low Value,Low-Value Customers
+CUST00861,Potential Loyalists,97,2,24465.5,24465.5,6243.94,2,1957.35,Medium Value,Growth Opportunities
+CUST00862,Loyal Customers,148,3,50007.78,50007.78,19027.91,3,2054.85,Medium Value,Medium-Value Customers
+CUST00863,Champions,109,5,73265.64,73265.64,23166.19,5,1687.27,Medium Value,Medium-Value Customers
+CUST00864,Potential Loyalists,353,2,89619.70999999999,89619.71,27348.27,2,6450.06,High Value,Growth Opportunities
+CUST00865,Champions,58,5,55944.68,55944.68,17007.66,5,1078.48,Medium Value,Medium-Value Customers
+CUST00866,Champions,29,5,76160.45,76160.45,24654.72,5,1799.61,Medium Value,Medium-Value Customers
+CUST00867,Loyal Customers,156,3,92584.9,92584.9,22781.15,3,2057.92,Medium Value,Medium-Value Customers
+CUST00868,Loyal Customers,28,2,42671.81,42671.81,10899.04,2,12246.11,High Value,Loyal High-Value
+CUST00869,Potential Loyalists,41,2,13111.29,13111.29,3539.48,2,327.43,Low Value,Low-Value Customers
+CUST00870,At Risk,175,1,824.42,824.42,141.73,1,141.73,Low Value,Low-Value Customers
+CUST00871,Loyal Customers,111,4,35240.27,35240.27,6610.52,4,586.56,Low Value,Low-Value Customers
+CUST00872,Needs Attention,282,1,3601.38,3601.38,1144.21,1,1144.21,Medium Value,Medium-Value Customers
+CUST00873,Potential Loyalists,83,2,29237.55,29237.55,8829.78,2,2487.26,Medium Value,Growth Opportunities
+CUST00874,Potential Loyalists,2,2,10400.68,10400.68,1976.04,2,278.32,Low Value,Low-Value Customers
+CUST00875,Needs Attention,416,1,9299.69,9299.69,2435.1,1,2435.1,Medium Value,Medium-Value Customers
+CUST00876,Loyal Customers,165,4,45790.08,45790.08,13104.14,4,1156.59,Medium Value,Medium-Value Customers
+CUST00877,Champions,77,5,48852.33,48852.33,19532.23,5,1905.58,Medium Value,Medium-Value Customers
+CUST00878,Loyal Customers,260,3,84582.73,84582.73,25269.09,3,4004.61,High Value,Loyal High-Value
+CUST00879,Champions,88,4,40412.5,40412.5,13035.31,4,1069.34,Medium Value,Medium-Value Customers
+CUST00880,Needs Attention,509,1,7815.55,7815.55,2620.72,1,2620.72,Medium Value,Medium-Value Customers
+CUST00881,Potential Loyalists,79,1,24465.16,24465.16,10827.67,1,10827.67,High Value,Growth Opportunities
+CUST00883,Needs Attention,304,1,9705.09,9705.09,4133.17,1,4133.17,High Value,High-Value Customers
+CUST00884,Needs Attention,437,1,8715.23,8715.23,4049.38,1,4049.38,High Value,High-Value Customers
+CUST00885,At Risk,426,2,21345.86,21345.86,8516.56,2,12342.84,High Value,At-Risk High-Value
+CUST00886,Loyal Customers,40,3,27170.38,27170.38,5308.28,3,323.08,Low Value,Low-Value Customers
+CUST00887,At Risk,241,1,39339.5,39339.5,8714.97,1,8714.97,High Value,At-Risk High-Value
+CUST00888,Potential Loyalists,240,3,33224.83,33224.83,9081.65,3,1448.43,Medium Value,Growth Opportunities
+CUST00889,Potential Loyalists,71,2,27602.09,27602.09,4892.6,2,4368.39,High Value,Growth Opportunities
+CUST00890,Potential Loyalists,269,3,21552.4,21552.4,5544.71,3,2108.25,Medium Value,Growth Opportunities
+CUST00891,Loyal Customers,27,2,61744.51,61744.51,11264.63,2,2830.31,Medium Value,Medium-Value Customers
+CUST00892,Champions,66,3,184634.71,184634.71,53181.07,3,5545.47,High Value,VIP Customers
+CUST00893,Loyal Customers,268,3,96077.04,96077.04,30879.79,3,6626.56,High Value,Loyal High-Value
+CUST00894,Potential Loyalists,190,3,18918.6,18918.6,5768.85,3,1015.64,Medium Value,Growth Opportunities
+CUST00895,At Risk,61,1,5466.12,5466.12,978.44,1,978.44,Medium Value,Medium-Value Customers
+CUST00896,Potential Loyalists,299,2,26619.32,26619.32,12018.96,2,3019.84,Medium Value,Growth Opportunities
+CUST00897,At Risk,517,1,57291.82,57291.82,27188.52,1,27188.52,High Value,At-Risk High-Value
+CUST00898,Champions,24,5,58980.71000000001,58980.71,20936.06,5,1721.72,Medium Value,Medium-Value Customers
+CUST00899,Potential Loyalists,124,2,36331.78,36331.78,11071.31,2,1234.26,Medium Value,Growth Opportunities
+CUST00901,Loyal Customers,56,3,31664.86,31664.86,8434.57,3,587.37,Low Value,Low-Value Customers
+CUST00902,Needs Attention,353,1,482.62,482.62,108.13,1,108.13,Low Value,Low-Value / Low-Engagement
+CUST00903,At Risk,421,2,20878.2,20878.2,6776.48,2,2547.55,Medium Value,Medium-Value Customers
+CUST00904,Potential Loyalists,409,2,53758.84,53758.84,14587.07,2,4393.7,High Value,Growth Opportunities
+CUST00905,Champions,7,5,109862.32,109862.32,28873.56,5,1668.03,Medium Value,Medium-Value Customers
+CUST00906,Needs Attention,421,1,13946.15,13946.15,5059.98,1,5059.98,High Value,High-Value Customers
+CUST00907,Potential Loyalists,120,2,17425.88,17425.88,5229.96,2,686.35,Low Value,Low-Value Customers
+CUST00909,Loyal Customers,35,3,23253.25,23253.25,6499.64,3,406.99,Low Value,Low-Value Customers
+CUST00910,Needs Attention,539,1,13440.55,13440.55,4908.21,1,4908.21,High Value,High-Value Customers
+CUST00911,Potential Loyalists,50,2,12237.24,12237.24,3250.47,2,284.38,Low Value,Low-Value Customers
+CUST00912,Champions,3,4,60767.18,60767.18,17263.09,4,1870.32,Medium Value,Medium-Value Customers
+CUST00913,At Risk,329,1,39846.1,39846.1,18153.94,1,18153.94,High Value,At-Risk High-Value
+CUST00914,Loyal Customers,142,3,38333.32,38333.32,12497.12,3,9763.38,High Value,Loyal High-Value
+CUST00915,At Risk,191,2,13928.9,13928.9,4775.41,2,559.18,Low Value,Low-Value Customers
+CUST00916,At Risk,464,1,41408.63,41408.63,7958.32,1,7958.32,High Value,At-Risk High-Value
+CUST00917,Potential Loyalists,14,1,10989.54,10989.54,1829.09,1,1829.09,Medium Value,Growth Opportunities
+CUST00918,At Risk,90,1,4747.19,4747.19,2112.49,1,2112.49,Medium Value,Medium-Value Customers
+CUST00920,Potential Loyalists,205,2,56490.56,56490.56,25710.45,2,6210.25,High Value,Growth Opportunities
+CUST00922,Potential Loyalists,299,2,46877.28,46877.28,10886.71,2,1410.2,Medium Value,Growth Opportunities
+CUST00923,Champions,27,7,91139.38,91139.38,39874.51,7,2604.47,Medium Value,Medium-Value Customers
+CUST00924,Champions,30,4,42495.04,42495.04,17828.76,4,1450.67,Medium Value,Medium-Value Customers
+CUST00925,Loyal Customers,117,4,46217.68,46217.68,15650.58,4,1179.4,Medium Value,Medium-Value Customers
+CUST00926,At Risk,87,1,5274.12,5274.12,1076.34,1,1076.34,Medium Value,Medium-Value Customers
+CUST00928,Loyal Customers,131,3,38262.81,38262.81,7807.72,3,722.27,Low Value,Low-Value Customers
+CUST00929,Potential Loyalists,292,3,33022.56,33022.56,8465.46,3,1257.87,Medium Value,Growth Opportunities
+CUST00930,Potential Loyalists,221,2,93098.89,93098.89,23743.09,2,4437.96,High Value,Growth Opportunities
+CUST00931,Needs Attention,433,1,1228.09,1228.09,349.8,1,349.8,Low Value,Low-Value / Low-Engagement
+CUST00932,Champions,15,5,41996.65,41996.65,13179.66,5,1219.21,Medium Value,Medium-Value Customers
+CUST00933,At Risk,292,1,11649.47,11649.47,2515.51,1,2515.51,Medium Value,Medium-Value Customers
+CUST00934,Loyal Customers,201,4,78684.4,78684.4,17865.11,4,5548.17,High Value,Loyal High-Value
+CUST00935,Potential Loyalists,96,2,36699.5,36699.5,9432.82,2,842.22,Low Value,Low-Value Customers
+CUST00936,Potential Loyalists,152,2,36631.51,36631.51,12044.72,2,1659.05,Medium Value,Growth Opportunities
+CUST00937,Champions,33,4,120001.26,120001.26,47154.59,4,3073.96,Medium Value,Medium-Value Customers
+CUST00938,Potential Loyalists,339,2,67919.74,67919.74,20849.83,2,15444.32,High Value,Growth Opportunities
+CUST00939,Champions,99,4,46866.3,46866.3,13893.35,4,1021.57,Medium Value,Medium-Value Customers
+CUST00940,Needs Attention,263,1,5400.5,5400.5,2490.18,1,2490.18,Medium Value,Medium-Value Customers
+CUST00941,At Risk,284,2,20228.91,20228.91,7476.55,2,940.45,Low Value,Low-Value Customers
+CUST00942,Champions,62,5,159749.31,159749.31,46392.17,5,3262.46,Medium Value,Medium-Value Customers
+CUST00943,Loyal Customers,193,3,55151.22,55151.22,19637.61,3,3494.24,High Value,Loyal High-Value
+CUST00944,Loyal Customers,90,3,19571.7,19571.7,3704.05,3,295.85,Low Value,Low-Value Customers
+CUST00945,Potential Loyalists,2,2,4674.06,4674.06,1847.25,2,222.29,Low Value,Low-Value Customers
+CUST00946,Champions,26,5,51240.2,51240.2,19670.19,5,1376.5,Medium Value,Medium-Value Customers
+CUST00948,Loyal Customers,143,3,50401.47,50401.47,14605.48,3,2709.74,Medium Value,Medium-Value Customers
+CUST00949,Potential Loyalists,161,2,30782.370000000003,30782.37,8458.68,2,936.73,Low Value,Low-Value Customers
+CUST00950,At Risk,267,1,16146.54,16146.54,7614.18,1,7614.18,High Value,At-Risk High-Value
+CUST00951,Potential Loyalists,2,2,19823.08,19823.08,6651.82,2,1557.8,Medium Value,Growth Opportunities
+CUST00952,Potential Loyalists,20,2,18983.38,18983.38,6187.34,2,735.71,Low Value,Low-Value Customers
+CUST00953,Loyal Customers,112,3,34523.37,34523.37,12840.89,3,960.43,Medium Value,Medium-Value Customers
+CUST00954,Potential Loyalists,368,3,18939.83,18939.83,7080.04,3,3174.91,Medium Value,Growth Opportunities
+CUST00955,Champions,69,3,74164.73000000001,74164.73,25333.61,3,3873.64,High Value,VIP Customers
+CUST00956,Needs Attention,478,1,7185.03,7185.03,2857.45,1,2857.45,Medium Value,Medium-Value Customers
+CUST00957,Loyal Customers,4,3,9788.05,9788.05,2999.47,3,207.58,Low Value,Low-Value Customers
+CUST00958,At Risk,480,1,56400.61,56400.61,16774.0,1,16774.0,High Value,At-Risk High-Value
+CUST00959,Potential Loyalists,179,2,91439.93,91439.93,34300.19,2,8285.07,High Value,Growth Opportunities
+CUST00960,Potential Loyalists,10,2,17198.19,17198.19,3287.16,2,349.7,Low Value,Low-Value Customers
+CUST00961,Potential Loyalists,120,2,20757.08,20757.08,6203.01,2,686.93,Low Value,Low-Value Customers
+CUST00963,Loyal Customers,187,3,83993.76000000001,83993.76,30433.61,3,3957.56,High Value,Loyal High-Value
+CUST00964,Potential Loyalists,79,1,27075.56,27075.56,11450.01,1,11450.01,High Value,Growth Opportunities
+CUST00965,Needs Attention,495,1,3448.32,3448.32,995.16,1,995.16,Medium Value,Medium-Value Customers
+CUST00966,At Risk,210,2,14416.79,14416.79,4524.87,2,962.74,Medium Value,Medium-Value Customers
+CUST00969,At Risk,245,2,21183.86,21183.86,3701.85,2,629.57,Low Value,Low-Value Customers
+CUST00970,Potential Loyalists,273,3,29527.46,29527.46,12541.49,3,1710.98,Medium Value,Growth Opportunities
+CUST00971,Champions,1,6,45881.23,45881.23,14672.5,6,926.88,Low Value,Low-Value Customers
+CUST00972,Loyal Customers,165,3,94891.01,94891.01,31627.76,3,2925.79,Medium Value,Medium-Value Customers
+CUST00973,Potential Loyalists,294,3,18319.58,18319.58,5728.46,3,1836.04,Medium Value,Growth Opportunities
+CUST00974,Potential Loyalists,406,2,89011.36,89011.36,29786.39,2,9250.43,High Value,Growth Opportunities
+CUST00975,Loyal Customers,241,3,42010.29,42010.29,12054.04,3,3598.22,High Value,Loyal High-Value
+CUST00976,At Risk,144,2,8637.13,8637.13,3563.11,2,1408.34,Medium Value,Medium-Value Customers
+CUST00977,Loyal Customers,150,4,26696.58,26696.58,7321.64,4,583.4,Low Value,Low-Value Customers
+CUST00978,Potential Loyalists,368,3,27657.14,27657.14,8790.89,3,2058.76,Medium Value,Growth Opportunities
+CUST00979,At Risk,60,1,6978.01,6978.01,1361.39,1,1361.39,Medium Value,Medium-Value Customers
+CUST00981,Loyal Customers,76,2,59300.53,59300.53,13741.44,2,15439.82,High Value,Loyal High-Value
+CUST00982,Champions,48,6,63410.47,63410.47,19725.13,6,1340.02,Medium Value,Medium-Value Customers
+CUST00983,Needs Attention,255,1,685.5,685.5,169.72,1,169.72,Low Value,Low-Value / Low-Engagement
+CUST00984,Potential Loyalists,213,3,16347.17,16347.17,5282.45,3,580.49,Low Value,Low-Value Customers
+CUST00985,At Risk,99,1,6730.26,6730.26,2186.72,1,2186.72,Medium Value,Medium-Value Customers
+CUST00986,Loyal Customers,202,4,75438.75,75438.75,24390.12,4,2243.8,Medium Value,Medium-Value Customers
+CUST00987,Needs Attention,338,1,10754.51,10754.51,4324.27,1,4324.27,High Value,High-Value Customers
+CUST00988,Loyal Customers,36,3,28771.58,28771.58,8139.7,3,550.72,Low Value,Low-Value Customers
+CUST00989,At Risk,124,2,9749.33,9749.33,2975.76,2,253.04,Low Value,Low-Value Customers
+CUST00991,Potential Loyalists,132,2,25971.4,25971.4,6001.08,2,692.17,Low Value,Low-Value Customers
+CUST00992,Champions,88,3,93673.89,93673.89,25660.01,3,1890.94,Medium Value,Medium-Value Customers
+CUST00993,At Risk,116,1,2330.56,2330.56,705.26,1,705.26,Low Value,Low-Value Customers
+CUST00994,Needs Attention,381,1,15619.81,15619.81,2536.14,1,2536.14,Medium Value,Medium-Value Customers
+CUST00995,At Risk,160,2,5329.530000000001,5329.53,1454.73,2,777.93,Low Value,Low-Value Customers
+CUST00996,At Risk,101,1,3447.17,3447.17,1331.6,1,1331.6,Medium Value,Medium-Value Customers
+CUST00997,Potential Loyalists,150,2,39086.45,39086.45,8153.67,2,651.25,Low Value,Low-Value Customers
+CUST00998,Champions,136,5,104328.47,104328.47,33873.62,5,2771.98,Medium Value,Medium-Value Customers
+CUST00999,Loyal Customers,177,3,37615.87,37615.87,13270.88,3,4336.89,High Value,Loyal High-Value
+CUST01000,Loyal Customers,80,3,38524.31,38524.31,12420.37,3,1215.3,Medium Value,Medium-Value Customers
+CUST01001,Champions,131,5,73559.38,73559.38,25744.35,5,2419.58,Medium Value,Medium-Value Customers
+CUST01002,Loyal Customers,99,3,26755.1,26755.1,5374.31,3,414.05,Low Value,Low-Value Customers
+CUST01003,Champions,91,5,56704.45,56704.45,17873.56,5,1248.15,Medium Value,Medium-Value Customers
+CUST01004,At Risk,426,2,12990.97,12990.97,4687.33,2,6510.18,High Value,At-Risk High-Value
+CUST01005,Champions,100,3,107036.48,107036.48,31776.42,3,2656.89,Medium Value,Medium-Value Customers
+CUST01006,Loyal Customers,71,3,25842.910000000003,25842.91,8339.35,3,1336.43,Medium Value,Medium-Value Customers
+CUST01007,Potential Loyalists,48,2,28840.57,28840.57,10175.28,2,3782.63,High Value,Growth Opportunities
+CUST01008,Needs Attention,437,1,19439.37,19439.37,9097.21,1,9097.21,High Value,High-Value Customers
+CUST01009,Loyal Customers,268,3,47848.62,47848.62,22214.73,3,6835.3,High Value,Loyal High-Value
+CUST01010,Potential Loyalists,82,2,10371.01,10371.01,3224.43,2,386.62,Low Value,Low-Value Customers
+CUST01011,Loyal Customers,106,4,48903.880000000005,48903.88,15057.29,4,1283.66,Medium Value,Medium-Value Customers
+CUST01012,Loyal Customers,25,3,31273.46,31273.46,7991.73,3,481.72,Low Value,Low-Value Customers
+CUST01013,At Risk,111,1,9897.24,9897.24,3761.8,1,3761.8,High Value,At-Risk High-Value
+CUST01014,Potential Loyalists,55,2,20816.56,20816.56,7885.99,2,34286.91,High Value,Growth Opportunities
+CUST01016,At Risk,261,2,10723.77,10723.77,2365.12,2,3427.71,Medium Value,Medium-Value Customers
+CUST01017,Needs Attention,193,1,4781.84,4781.84,885.4,1,885.4,Low Value,Low-Value / Low-Engagement
+CUST01018,Champions,56,5,66817.89,66817.89,25413.25,5,1614.56,Medium Value,Medium-Value Customers
+CUST01019,Loyal Customers,116,3,37600.77,37600.77,9199.38,3,886.26,Low Value,Low-Value Customers
+CUST01020,Potential Loyalists,345,2,28817.74,28817.74,7111.87,2,3000.79,Medium Value,Growth Opportunities
+CUST01021,At Risk,330,2,23580.23,23580.23,8249.27,2,3699.22,High Value,At-Risk High-Value
+CUST01022,Potential Loyalists,75,2,13848.8,13848.8,4129.04,2,496.88,Low Value,Low-Value Customers
+CUST01023,Champions,32,9,149350.27,149350.27,48324.04,9,3008.97,Medium Value,Medium-Value Customers
+CUST01024,Loyal Customers,71,2,80628.81,80628.81,14855.57,2,1417.52,Medium Value,Medium-Value Customers
+CUST01025,Loyal Customers,293,3,70863.54,70863.54,21587.96,3,2985.89,Medium Value,Medium-Value Customers
+CUST01026,Potential Loyalists,262,4,22562.06,22562.06,8648.24,4,1070.33,Medium Value,Growth Opportunities
+CUST01027,Champions,39,2,74092.93,74092.93,33766.73,2,4413.95,High Value,VIP Customers
+CUST01029,Loyal Customers,9,2,30681.99,30681.99,8628.21,2,1188.46,Medium Value,Medium-Value Customers
+CUST01030,Potential Loyalists,89,2,18472.4,18472.4,4270.44,2,1313.98,Medium Value,Growth Opportunities
+CUST01031,Champions,141,7,101238.24,101238.24,38123.89,7,3233.58,Medium Value,Medium-Value Customers
+CUST01032,Champions,35,2,115210.2,115210.2,45771.62,2,3564.77,High Value,VIP Customers
+CUST01033,Loyal Customers,321,3,79312.6,79312.6,23537.19,3,4002.92,High Value,Loyal High-Value
+CUST01034,Potential Loyalists,252,2,20711.47,20711.47,7648.83,2,7284.6,High Value,Growth Opportunities
+CUST01035,Potential Loyalists,298,2,13200.830000000002,13200.83,3117.79,2,384.44,Low Value,Low-Value Customers
+CUST01036,Potential Loyalists,252,2,28301.35,28301.35,10684.55,2,2753.75,Medium Value,Growth Opportunities
+CUST01037,Loyal Customers,9,3,37062.85,37062.85,11434.81,3,3248.53,Medium Value,Medium-Value Customers
+CUST01038,Loyal Customers,150,4,61688.73999999999,61688.74,23540.85,4,2183.75,Medium Value,Medium-Value Customers
+CUST01040,Potential Loyalists,289,2,17189.6,17189.6,4100.98,2,3037.76,Medium Value,Growth Opportunities
+CUST01041,Potential Loyalists,495,2,27668.32,27668.32,12272.63,2,17786.42,High Value,Growth Opportunities
+CUST01042,Loyal Customers,84,2,41830.13,41830.13,15008.18,2,1784.56,Medium Value,Medium-Value Customers
+CUST01043,Loyal Customers,267,4,39704.0,39704.0,10775.84,4,1425.38,Medium Value,Medium-Value Customers
+CUST01044,Champions,16,7,51427.5,51427.5,17985.84,7,1071.22,Medium Value,Medium-Value Customers
+CUST01045,At Risk,334,1,33311.25,33311.25,15925.71,1,15925.71,High Value,At-Risk High-Value
+CUST01046,Needs Attention,369,1,5234.31,5234.31,1516.91,1,1516.91,Medium Value,Medium-Value Customers
+CUST01047,Champions,57,4,127285.99,127285.99,35911.9,4,2686.01,Medium Value,Medium-Value Customers
+CUST01048,At Risk,188,2,3726.4,3726.4,1123.39,2,1560.26,Medium Value,Medium-Value Customers
+CUST01049,Potential Loyalists,186,2,52496.16,52496.16,21197.77,2,2109.23,Medium Value,Growth Opportunities
+CUST01050,Potential Loyalists,171,2,12764.59,12764.59,4913.62,2,1234.58,Medium Value,Growth Opportunities
+CUST01051,Loyal Customers,72,4,36582.0,36582.0,12765.36,4,1153.15,Medium Value,Medium-Value Customers
+CUST01052,Loyal Customers,243,6,133931.59,133931.59,57652.76,6,9093.5,High Value,Loyal High-Value
+CUST01053,Loyal Customers,103,5,62586.64,62586.64,18098.69,5,1710.65,Medium Value,Medium-Value Customers
+CUST01054,Needs Attention,320,1,13100.47,13100.47,4362.01,1,4362.01,High Value,High-Value Customers
+CUST01055,Potential Loyalists,377,3,13359.81,13359.81,4131.52,3,766.52,Low Value,Low-Value Customers
+CUST01056,Loyal Customers,36,2,11947.59,11947.59,4147.49,2,949.08,Medium Value,Medium-Value Customers
+CUST01057,Champions,30,3,91666.71,91666.71,31713.08,3,2680.73,Medium Value,Medium-Value Customers
+CUST01058,Loyal Customers,53,3,35288.46,35288.46,13194.04,3,1403.62,Medium Value,Medium-Value Customers
+CUST01059,Potential Loyalists,272,3,3867.06,3867.06,1060.77,3,336.75,Low Value,Low-Value Customers
+CUST01060,Potential Loyalists,203,3,35112.4,35112.4,14802.4,3,3176.48,Medium Value,Growth Opportunities
+CUST01061,Loyal Customers,79,3,36995.78,36995.78,16271.29,3,1898.63,Medium Value,Medium-Value Customers
+CUST01062,Needs Attention,532,1,7203.42,7203.42,1257.49,1,1257.49,Medium Value,Medium-Value Customers
+CUST01063,Potential Loyalists,48,2,14079.6,14079.6,4920.4,2,2343.05,Medium Value,Growth Opportunities
+CUST01064,Champions,27,5,157904.84,157904.84,56587.54,5,3727.77,High Value,VIP Customers
+CUST01065,Loyal Customers,169,3,28351.84,28351.84,11573.32,3,978.3,Medium Value,Medium-Value Customers
+CUST01066,At Risk,129,1,7009.23,7009.23,3198.07,1,3198.07,Medium Value,Medium-Value Customers
+CUST01067,Champions,87,3,68170.42,68170.42,27052.2,3,2346.24,Medium Value,Medium-Value Customers
+CUST01068,Potential Loyalists,192,2,21689.77,21689.77,6554.3,2,7710.94,High Value,Growth Opportunities
+CUST01070,Champions,163,4,116931.98,116931.98,35470.19,4,3130.64,Medium Value,Medium-Value Customers
+CUST01071,At Risk,286,1,18389.25,18389.25,3187.9,1,3187.9,Medium Value,Medium-Value Customers
+CUST01072,Champions,88,5,79138.64000000001,79138.64,20394.68,5,2162.74,Medium Value,Medium-Value Customers
+CUST01073,Loyal Customers,351,5,42933.28,42933.28,13625.4,5,2500.07,Medium Value,Medium-Value Customers
+CUST01074,Champions,27,4,48102.850000000006,48102.85,17108.94,4,3044.3,Medium Value,Medium-Value Customers
+CUST01075,Loyal Customers,142,3,73363.87000000001,73363.87,14533.92,3,1158.08,Medium Value,Medium-Value Customers
+CUST01076,At Risk,188,2,6615.99,6615.99,2319.76,2,257.75,Low Value,Low-Value Customers
+CUST01077,Potential Loyalists,118,1,26127.58,26127.58,10897.46,1,10897.46,High Value,Growth Opportunities
+CUST01078,At Risk,356,2,19563.55,19563.55,6613.07,2,2543.49,Medium Value,Medium-Value Customers
+CUST01080,Loyal Customers,84,4,33402.3,33402.3,10498.87,4,716.65,Low Value,Low-Value Customers
+CUST01081,Loyal Customers,37,2,22486.63,22486.63,6599.96,2,2682.91,Medium Value,Medium-Value Customers
+CUST01082,Loyal Customers,74,2,75493.5,75493.5,27691.48,2,3747.16,High Value,Loyal High-Value
+CUST01083,Champions,9,3,87913.9,87913.9,39219.09,3,2451.19,Medium Value,Medium-Value Customers
+CUST01084,Champions,44,4,94758.91,94758.91,27504.97,4,2907.5,Medium Value,Medium-Value Customers
+CUST01085,Potential Loyalists,379,3,15083.45,15083.45,3831.35,3,1041.13,Medium Value,Growth Opportunities
+CUST01086,Needs Attention,496,1,1488.77,1488.77,455.52,1,455.52,Low Value,Low-Value / Low-Engagement
+CUST01087,Champions,90,4,73661.91,73661.91,21713.69,4,3160.65,Medium Value,Medium-Value Customers
+CUST01088,Champions,77,5,48067.82,48067.82,18906.35,5,1281.79,Medium Value,Medium-Value Customers
+CUST01089,Potential Loyalists,31,2,3289.06,3289.06,903.16,2,77.66,Low Value,Low-Value Customers
+CUST01090,Needs Attention,413,1,3141.76,3141.76,691.39,1,691.39,Low Value,Low-Value / Low-Engagement
+CUST01091,Champions,21,5,105855.63,105855.63,39949.92,5,3201.12,Medium Value,Medium-Value Customers
+CUST01092,Potential Loyalists,209,3,28685.63,28685.63,12417.08,3,3119.87,Medium Value,Growth Opportunities
+CUST01093,Needs Attention,366,1,4839.3,4839.3,2232.55,1,2232.55,Medium Value,Medium-Value Customers
+CUST01094,Potential Loyalists,355,2,34959.130000000005,34959.13,10568.29,2,1880.48,Medium Value,Growth Opportunities
+CUST01096,Loyal Customers,56,3,40483.12,40483.12,9317.85,3,831.95,Low Value,Low-Value Customers
+CUST01097,Loyal Customers,320,6,143676.91,143676.91,43047.19,6,7486.47,High Value,Loyal High-Value
+CUST01098,At Risk,204,1,33488.5,33488.5,10329.44,1,10329.44,High Value,At-Risk High-Value
+CUST01099,Loyal Customers,166,2,87182.56,87182.56,18679.99,2,2900.62,Medium Value,Medium-Value Customers
+CUST01100,Loyal Customers,152,4,60449.170000000006,60449.17,23656.28,4,1982.92,Medium Value,Medium-Value Customers
+CUST01101,Loyal Customers,64,2,31336.17,31336.17,9656.1,2,1108.62,Medium Value,Medium-Value Customers
+CUST01102,Loyal Customers,194,3,81269.32,81269.32,14904.36,3,1358.65,Medium Value,Medium-Value Customers
+CUST01103,At Risk,315,2,5366.07,5366.07,1580.75,2,1776.12,Medium Value,Medium-Value Customers
+CUST01104,Champions,4,4,26417.62,26417.62,8521.75,4,609.13,Low Value,Low-Value Customers
+CUST01105,Potential Loyalists,251,2,28490.7,28490.7,7050.79,2,1602.45,Medium Value,Growth Opportunities
+CUST01106,Potential Loyalists,101,3,14117.22,14117.22,5466.49,3,393.27,Low Value,Low-Value Customers
+CUST01107,Potential Loyalists,321,3,34810.020000000004,34810.02,10091.42,3,1687.53,Medium Value,Growth Opportunities
+CUST01108,Champions,62,4,70002.87,70002.87,21038.34,4,2093.37,Medium Value,Medium-Value Customers
+CUST01109,Champions,50,4,67934.2,67934.2,25782.76,4,2580.86,Medium Value,Medium-Value Customers
+CUST01110,At Risk,57,1,5707.4,5707.4,1067.43,1,1067.43,Medium Value,Medium-Value Customers
+CUST01111,Loyal Customers,322,3,113082.72,113082.72,24444.99,3,4303.7,High Value,Loyal High-Value
+CUST01112,Potential Loyalists,3,2,10556.83,10556.83,3927.93,2,318.05,Low Value,Low-Value Customers
+CUST01113,At Risk,272,2,6463.58,6463.58,2494.55,2,974.43,Medium Value,Medium-Value Customers
+CUST01114,Potential Loyalists,240,3,18278.17,18278.17,7844.99,3,1176.16,Medium Value,Growth Opportunities
+CUST01115,Potential Loyalists,286,2,19363.48,19363.48,4877.0,2,921.93,Low Value,Low-Value Customers
+CUST01116,Potential Loyalists,104,3,7176.18,7176.18,1644.5,3,262.28,Low Value,Low-Value Customers
+CUST01117,Potential Loyalists,65,2,13070.36,13070.36,3539.85,2,350.83,Low Value,Low-Value Customers
+CUST01118,Champions,48,4,81588.51,81588.51,26204.69,4,2839.08,Medium Value,Medium-Value Customers
+CUST01119,Loyal Customers,160,5,54259.19,54259.19,19259.13,5,1749.24,Medium Value,Medium-Value Customers
+CUST01120,Potential Loyalists,221,2,40001.72,40001.72,15723.26,2,11393.67,High Value,Growth Opportunities
+CUST01121,Loyal Customers,190,4,51082.45,51082.45,20954.4,4,1833.28,Medium Value,Medium-Value Customers
+CUST01122,Loyal Customers,103,4,25145.870000000003,25145.87,9689.48,4,762.35,Low Value,Low-Value Customers
+CUST01123,Potential Loyalists,366,1,82807.69,82807.69,18748.06,1,18748.06,High Value,Growth Opportunities
+CUST01124,Loyal Customers,126,3,28463.6,28463.6,9738.07,3,1200.75,Medium Value,Medium-Value Customers
+CUST01125,Potential Loyalists,469,2,70720.19,70720.19,31609.4,2,12347.42,High Value,Growth Opportunities
+CUST01126,Potential Loyalists,295,3,24453.53,24453.53,7883.97,3,1904.34,Medium Value,Growth Opportunities
+CUST01128,Needs Attention,347,1,1645.2,1645.2,380.79,1,380.79,Low Value,Low-Value / Low-Engagement
+CUST01129,Potential Loyalists,291,3,35079.17,35079.17,10638.02,3,1451.3,Medium Value,Growth Opportunities
+CUST01130,Potential Loyalists,330,3,42303.65,42303.65,11668.57,3,2503.98,Medium Value,Growth Opportunities
+CUST01131,Champions,117,4,79346.72,79346.72,23410.99,4,2101.53,Medium Value,Medium-Value Customers
+CUST01132,At Risk,219,2,11305.05,11305.05,4333.29,2,1996.91,Medium Value,Medium-Value Customers
+CUST01133,Potential Loyalists,244,1,41072.82,41072.82,11812.81,1,11812.81,High Value,Growth Opportunities
+CUST01134,Potential Loyalists,79,2,8120.28,8120.28,2096.67,2,479.79,Low Value,Low-Value Customers
+CUST01135,Loyal Customers,157,2,56708.31,56708.31,23092.81,2,5131.74,High Value,Loyal High-Value
+CUST01136,Potential Loyalists,285,2,22995.4,22995.4,8660.48,2,1151.66,Medium Value,Growth Opportunities
+CUST01138,Loyal Customers,141,3,61143.170000000006,61143.17,24803.97,3,2151.25,Medium Value,Medium-Value Customers
+CUST01139,Needs Attention,281,1,2710.5,2710.5,1077.04,1,1077.04,Medium Value,Medium-Value Customers
+CUST01140,At Risk,251,1,34017.27,34017.27,6014.26,1,6014.26,High Value,At-Risk High-Value
+CUST01141,Loyal Customers,21,2,27610.31,27610.31,8104.12,2,5129.19,High Value,Loyal High-Value
+CUST01142,Champions,59,7,81453.36,81453.36,29039.12,7,1905.45,Medium Value,Medium-Value Customers
+CUST01143,Loyal Customers,120,3,30267.1,30267.1,9363.41,3,3480.82,High Value,Loyal High-Value
+CUST01144,Loyal Customers,133,3,54604.030000000006,54604.03,18340.38,3,3103.28,Medium Value,Medium-Value Customers
+CUST01146,Champions,9,4,48974.44,48974.44,12283.79,4,1959.14,Medium Value,Medium-Value Customers
+CUST01147,Needs Attention,230,1,10579.77,10579.77,3564.79,1,3564.79,High Value,High-Value Customers
+CUST01148,Champions,119,5,76421.56,76421.56,16770.1,5,1206.48,Medium Value,Medium-Value Customers
+CUST01149,Potential Loyalists,44,1,22296.61,22296.61,9119.86,1,9119.86,High Value,Growth Opportunities
+CUST01150,Loyal Customers,113,3,32012.26,32012.26,9454.95,3,1065.95,Medium Value,Medium-Value Customers
+CUST01151,Loyal Customers,110,2,74983.04000000001,74983.04,32502.18,2,13714.0,High Value,Loyal High-Value
+CUST01152,Potential Loyalists,195,2,65264.37,65264.37,14285.67,2,2587.98,Medium Value,Growth Opportunities
+CUST01153,Loyal Customers,268,5,73027.09999999999,73027.1,17742.12,5,2007.03,Medium Value,Medium-Value Customers
+CUST01154,Loyal Customers,207,4,51669.95,51669.95,16742.84,4,2548.38,Medium Value,Medium-Value Customers
+CUST01155,Potential Loyalists,83,2,9178.15,9178.15,2024.34,2,143.98,Low Value,Low-Value Customers
+CUST01156,Champions,74,7,255597.7,255597.7,81616.92,7,6790.09,High Value,VIP Customers
+CUST01157,Loyal Customers,6,5,22842.3,22842.3,8406.63,5,649.66,Low Value,Low-Value Customers
+CUST01158,Champions,5,3,78943.44,78943.44,29881.62,3,2439.32,Medium Value,Medium-Value Customers
+CUST01159,Champions,29,4,104338.82,104338.82,44618.16,4,2834.7,Medium Value,Medium-Value Customers
+CUST01160,Needs Attention,211,1,5484.86,5484.86,2162.29,1,2162.29,Medium Value,Medium-Value Customers
+CUST01161,Potential Loyalists,63,2,8370.5,8370.5,1907.48,2,210.31,Low Value,Low-Value Customers
+CUST01162,Champions,13,5,73693.03,73693.03,20962.08,5,1405.91,Medium Value,Medium-Value Customers
+CUST01163,Champions,5,4,56356.56,56356.56,25022.01,4,1623.75,Medium Value,Medium-Value Customers
+CUST01164,Loyal Customers,107,3,45382.37,45382.37,15378.78,3,2546.16,Medium Value,Medium-Value Customers
+CUST01165,Loyal Customers,62,2,65685.54000000001,65685.54,26560.47,2,9985.14,High Value,Loyal High-Value
+CUST01166,Champions,18,5,110792.93,110792.93,26333.27,5,1550.84,Medium Value,Medium-Value Customers
+CUST01167,Loyal Customers,30,1,52487.99,52487.99,22058.28,1,22058.28,High Value,Loyal High-Value
+CUST01168,Potential Loyalists,140,2,18179.63,18179.63,6441.06,2,14002.3,High Value,Growth Opportunities
+CUST01169,Loyal Customers,148,2,72293.35,72293.35,27143.69,2,9591.41,High Value,Loyal High-Value
+CUST01170,Needs Attention,279,1,2354.54,2354.54,948.38,1,948.38,Low Value,Low-Value / Low-Engagement
+CUST01171,Loyal Customers,180,5,53063.16,53063.16,13292.93,5,1207.35,Medium Value,Medium-Value Customers
+CUST01172,Needs Attention,502,1,6016.5,6016.5,1828.42,1,1828.42,Medium Value,Medium-Value Customers
+CUST01173,Champions,96,4,62100.03,62100.03,16208.79,4,1833.57,Medium Value,Medium-Value Customers
+CUST01175,Potential Loyalists,188,3,29425.51,29425.51,7342.14,3,1095.84,Medium Value,Growth Opportunities
+CUST01176,Loyal Customers,112,2,44292.49,44292.49,10417.1,2,991.16,Medium Value,Medium-Value Customers
+CUST01177,Needs Attention,496,1,3443.69,3443.69,1382.67,1,1382.67,Medium Value,Medium-Value Customers
+CUST01178,Potential Loyalists,91,2,11194.03,11194.03,2011.15,2,169.57,Low Value,Low-Value Customers
+CUST01179,Potential Loyalists,241,2,13255.17,13255.17,4812.1,2,544.36,Low Value,Low-Value Customers
+CUST01180,Champions,37,5,101579.28,101579.28,39652.02,5,3809.03,High Value,VIP Customers
+CUST01182,Champions,95,4,53606.65,53606.65,16898.13,4,1659.93,Medium Value,Medium-Value Customers
+CUST01183,Champions,139,6,139321.15,139321.15,31761.18,6,2404.33,Medium Value,Medium-Value Customers
+CUST01184,Loyal Customers,148,3,39410.51,39410.51,14571.14,3,2490.79,Medium Value,Medium-Value Customers
+CUST01185,Potential Loyalists,151,3,12272.6,12272.6,5181.91,3,917.15,Low Value,Low-Value Customers
+CUST01186,At Risk,300,2,13840.75,13840.75,3299.13,2,462.71,Low Value,Low-Value Customers
+CUST01187,Loyal Customers,199,5,136339.13,136339.13,55286.81,5,5378.09,High Value,Loyal High-Value
+CUST01188,Loyal Customers,150,4,17601.52,17601.52,5625.73,4,696.25,Low Value,Low-Value Customers
+CUST01189,Potential Loyalists,31,2,5900.68,5900.68,1943.26,2,558.41,Low Value,Low-Value Customers
+CUST01190,At Risk,186,1,22074.09,22074.09,5143.63,1,5143.63,High Value,At-Risk High-Value
+CUST01191,Champions,2,6,77404.86,77404.86,27751.5,6,1575.89,Medium Value,Medium-Value Customers
+CUST01192,Potential Loyalists,203,1,43521.95,43521.95,14102.01,1,14102.01,High Value,Growth Opportunities
+CUST01194,At Risk,65,1,5643.96,5643.96,1806.69,1,1806.69,Medium Value,Medium-Value Customers
+CUST01195,Champions,55,4,47455.36,47455.36,17280.52,4,1391.35,Medium Value,Medium-Value Customers
+CUST01196,Loyal Customers,2,3,39762.46,39762.46,15413.68,3,1826.27,Medium Value,Medium-Value Customers
+CUST01197,Loyal Customers,177,2,109739.44,109739.44,31611.73,2,7351.57,High Value,Loyal High-Value
+CUST01198,Loyal Customers,59,4,23593.57,23593.57,7017.14,4,504.83,Low Value,Low-Value Customers
+CUST01199,Loyal Customers,132,4,36839.93,36839.93,10829.76,4,1177.15,Medium Value,Medium-Value Customers
+CUST01200,Loyal Customers,375,5,92945.47,92945.47,18218.16,5,3379.99,Medium Value,Medium-Value Customers
+CUST01201,Potential Loyalists,94,2,20992.71,20992.71,8281.56,2,1739.82,Medium Value,Growth Opportunities
+CUST01202,Needs Attention,495,1,2441.14,2441.14,589.4,1,589.4,Low Value,Low-Value / Low-Engagement
+CUST01203,Needs Attention,511,1,17317.23,17317.23,6362.39,1,6362.39,High Value,High-Value Customers
+CUST01204,At Risk,318,2,12001.82,12001.82,3407.79,2,610.72,Low Value,Low-Value Customers
+CUST01205,Potential Loyalists,217,2,12840.13,12840.13,5140.73,2,3924.22,High Value,Growth Opportunities
+CUST01206,Champions,49,4,127545.45,127545.45,39967.47,4,2576.88,Medium Value,Medium-Value Customers
+CUST01207,Potential Loyalists,465,3,64172.66,64172.66,22093.25,3,8213.1,High Value,Growth Opportunities
+CUST01208,Needs Attention,535,1,7921.27,7921.27,2407.44,1,2407.44,Medium Value,Medium-Value Customers
+CUST01209,Potential Loyalists,6,1,3798.77,3798.77,1247.82,1,1247.82,Medium Value,Growth Opportunities
+CUST01210,Loyal Customers,61,3,50057.62,50057.62,10007.41,3,673.9,Low Value,Low-Value Customers
+CUST01211,Loyal Customers,100,3,21315.47,21315.47,3971.56,3,334.03,Low Value,Low-Value Customers
+CUST01212,Loyal Customers,73,4,35859.75,35859.75,15742.49,4,1669.41,Medium Value,Medium-Value Customers
+CUST01213,Champions,2,4,58608.62,58608.62,17843.22,4,1065.27,Medium Value,Medium-Value Customers
+CUST01214,Loyal Customers,181,3,98740.36,98740.36,41391.74,3,5725.0,High Value,Loyal High-Value
+CUST01215,Champions,50,5,157101.82,157101.82,28906.17,5,1880.69,Medium Value,Medium-Value Customers
+CUST01216,Loyal Customers,86,3,39210.18,39210.18,16374.51,3,1365.68,Medium Value,Medium-Value Customers
+CUST01217,Champions,72,4,128492.12,128492.12,29385.0,4,1944.74,Medium Value,Medium-Value Customers
+CUST01218,Potential Loyalists,147,2,32425.42,32425.42,9333.94,2,16667.75,High Value,Growth Opportunities
+CUST01220,Champions,40,4,70246.04,70246.04,26059.29,4,1857.4,Medium Value,Medium-Value Customers
+CUST01221,Potential Loyalists,177,3,29460.07,29460.07,12821.68,3,2031.96,Medium Value,Growth Opportunities
+CUST01222,Potential Loyalists,395,4,30952.46,30952.46,13329.26,4,3383.06,Medium Value,Growth Opportunities
+CUST01223,Loyal Customers,8,2,11779.93,11779.93,3486.13,2,3486.13,High Value,Loyal High-Value
+CUST01224,Champions,18,5,34610.18,34610.18,10000.07,5,586.51,Low Value,Low-Value Customers
+CUST01225,Potential Loyalists,153,2,25524.94,25524.94,6159.17,2,1130.12,Medium Value,Growth Opportunities
+CUST01226,Potential Loyalists,437,2,63195.21,63195.21,26283.99,2,11090.29,High Value,Growth Opportunities
+CUST01227,Loyal Customers,47,4,22023.66,22023.66,6103.72,4,452.13,Low Value,Low-Value Customers
+CUST01228,Potential Loyalists,286,2,26917.6,26917.6,10629.12,2,35430.4,High Value,Growth Opportunities
+CUST01229,Potential Loyalists,290,3,5059.34,5059.34,1967.46,3,516.39,Low Value,Low-Value Customers
+CUST01230,Champions,113,6,69773.25,69773.25,20322.95,6,2579.05,Medium Value,Medium-Value Customers
+CUST01231,Potential Loyalists,398,2,104511.51,104511.51,24816.75,2,7193.26,High Value,Growth Opportunities
+CUST01232,Loyal Customers,158,4,66089.07,66089.07,25036.55,4,2165.79,Medium Value,Medium-Value Customers
+CUST01233,Needs Attention,330,1,16484.04,16484.04,6109.59,1,6109.59,High Value,High-Value Customers
+CUST01234,Loyal Customers,12,3,17399.120000000003,17399.12,6797.75,3,1004.1,Medium Value,Medium-Value Customers
+CUST01235,Loyal Customers,91,4,34277.8,34277.8,7659.51,4,563.2,Low Value,Low-Value Customers
+CUST01236,Loyal Customers,95,2,42788.53,42788.53,18806.3,2,1585.69,Medium Value,Medium-Value Customers
+CUST01237,At Risk,454,1,32852.2,32852.2,6754.96,1,6754.96,High Value,At-Risk High-Value
+CUST01238,Loyal Customers,23,2,38258.25,38258.25,11864.94,2,867.95,Low Value,Low-Value Customers
+CUST01239,At Risk,206,2,8687.89,8687.89,3252.66,2,630.36,Low Value,Low-Value Customers
+CUST01240,Loyal Customers,219,2,82298.92,82298.92,32856.43,2,5265.45,High Value,Loyal High-Value
+CUST01241,Loyal Customers,64,3,49648.09,49648.09,20322.7,3,1857.65,Medium Value,Medium-Value Customers
+CUST01242,Loyal Customers,422,3,93106.84,93106.84,31512.47,3,9406.71,High Value,Loyal High-Value
+CUST01243,At Risk,383,1,26138.66,26138.66,11972.45,1,11972.45,High Value,At-Risk High-Value
+CUST01244,Potential Loyalists,447,2,48895.06,48895.06,15256.67,2,5154.28,High Value,Growth Opportunities
+CUST01245,Loyal Customers,182,4,53755.65,53755.65,23127.95,4,2070.54,Medium Value,Medium-Value Customers
+CUST01246,Loyal Customers,220,3,50980.49,50980.49,20627.21,3,3696.63,High Value,Loyal High-Value
+CUST01247,Champions,24,7,123600.5,123600.5,42223.99,7,2788.9,Medium Value,Medium-Value Customers
+CUST01248,Needs Attention,178,1,2891.03,2891.03,592.04,1,592.04,Low Value,Low-Value / Low-Engagement
+CUST01249,Needs Attention,436,1,12029.16,12029.16,4367.38,1,4367.38,High Value,High-Value Customers
+CUST01250,Loyal Customers,67,3,13721.91,13721.91,3800.34,3,295.98,Low Value,Low-Value Customers
+CUST01251,Potential Loyalists,201,3,8794.75,8794.75,2130.43,3,780.38,Low Value,Low-Value Customers
+CUST01252,Potential Loyalists,113,2,38906.92,38906.92,7958.83,2,1741.54,Medium Value,Growth Opportunities
+CUST01253,Champions,79,3,92676.1,92676.1,40473.74,3,6255.6,High Value,VIP Customers
+CUST01254,Loyal Customers,100,3,31025.76,31025.76,12995.23,3,1114.51,Medium Value,Medium-Value Customers
+CUST01255,Potential Loyalists,113,2,17835.14,17835.14,7366.45,2,550.97,Low Value,Low-Value Customers
+CUST01257,Champions,139,4,90668.05,90668.05,29539.2,4,2818.63,Medium Value,Medium-Value Customers
+CUST01258,Champions,16,4,67103.61,67103.61,26135.92,4,1681.85,Medium Value,Medium-Value Customers
+CUST01259,Champions,74,4,73634.0,73634.0,22324.58,4,2257.29,Medium Value,Medium-Value Customers
+CUST01260,Loyal Customers,67,3,33194.07,33194.07,6178.4,3,421.73,Low Value,Low-Value Customers
+CUST01261,Loyal Customers,88,3,37144.12,37144.12,10512.32,3,949.62,Medium Value,Medium-Value Customers
+CUST01262,Champions,137,4,69866.28,69866.28,23456.58,4,3989.21,High Value,VIP Customers
+CUST01265,Champions,148,4,83026.18,83026.18,29616.5,4,2384.58,Medium Value,Medium-Value Customers
+CUST01266,Loyal Customers,46,3,9271.65,9271.65,3448.87,3,249.38,Low Value,Low-Value Customers
+CUST01267,Champions,21,3,101121.21,101121.21,32186.8,3,2855.97,Medium Value,Medium-Value Customers
+CUST01269,At Risk,196,2,9483.19,9483.19,2263.94,2,1131.97,Medium Value,Medium-Value Customers
+CUST01270,Loyal Customers,14,5,22471.29,22471.29,6180.58,5,684.45,Low Value,Low-Value Customers
+CUST01271,Loyal Customers,15,2,30465.38,30465.38,7242.18,2,724.94,Low Value,Low-Value Customers
+CUST01272,Loyal Customers,129,3,167705.74,167705.74,49880.45,3,6686.39,High Value,Loyal High-Value
+CUST01273,Potential Loyalists,254,3,23165.77,23165.77,9010.62,3,979.42,Medium Value,Growth Opportunities
+CUST01274,Champions,56,5,61737.51,61737.51,16503.32,5,1621.15,Medium Value,Medium-Value Customers
+CUST01275,Potential Loyalists,219,3,25701.69,25701.69,9481.96,3,887.82,Low Value,Low-Value Customers
+CUST01276,Potential Loyalists,249,3,10951.06,10951.06,3596.19,3,482.06,Low Value,Low-Value Customers
+CUST01277,Loyal Customers,45,2,25029.96,25029.96,8640.95,2,553.91,Low Value,Low-Value Customers
+CUST01278,Loyal Customers,280,3,111782.71,111782.71,42061.89,3,6334.62,High Value,Loyal High-Value
+CUST01279,Potential Loyalists,31,1,2693.56,2693.56,1068.84,1,1068.84,Medium Value,Growth Opportunities
+CUST01281,Needs Attention,305,1,22289.2,22289.2,3973.25,1,3973.25,High Value,High-Value Customers
+CUST01282,Needs Attention,178,1,2759.79,2759.79,524.94,1,524.94,Low Value,Low-Value / Low-Engagement
+CUST01283,Loyal Customers,99,6,30234.79,30234.79,10056.83,6,1055.28,Medium Value,Medium-Value Customers
+CUST01284,Potential Loyalists,162,2,12354.45,12354.45,2618.8,2,4941.13,High Value,Growth Opportunities
+CUST01285,Potential Loyalists,118,1,28821.88,28821.88,10572.26,1,10572.26,High Value,Growth Opportunities
+CUST01286,Loyal Customers,260,4,53563.75,53563.75,17372.58,4,2279.87,Medium Value,Medium-Value Customers
+CUST01289,Needs Attention,244,1,6395.1,6395.1,1426.6,1,1426.6,Medium Value,Medium-Value Customers
+CUST01290,Champions,67,3,104601.73,104601.73,30933.54,3,4302.3,High Value,VIP Customers
+CUST01292,Loyal Customers,117,3,91971.54,91971.54,40441.86,3,9254.43,High Value,Loyal High-Value
+CUST01293,Champions,36,6,92307.33,92307.33,32288.63,6,2433.2,Medium Value,Medium-Value Customers
+CUST01294,Champions,72,4,45662.78,45662.78,17747.24,4,1611.92,Medium Value,Medium-Value Customers
+CUST01295,Loyal Customers,145,3,43025.16,43025.16,18437.93,3,1747.67,Medium Value,Medium-Value Customers
+CUST01296,Loyal Customers,208,3,45550.41,45550.41,14250.27,3,1853.09,Medium Value,Medium-Value Customers
+CUST01297,Champions,30,7,104247.46,104247.46,30912.02,7,1972.69,Medium Value,Medium-Value Customers
+CUST01298,Loyal Customers,138,2,52023.4,52023.4,15004.57,2,6439.73,High Value,Loyal High-Value
+CUST01299,Loyal Customers,188,3,60062.95,60062.95,14280.81,3,1704.15,Medium Value,Medium-Value Customers
+CUST01300,Loyal Customers,30,3,9797.59,9797.59,3010.89,3,187.83,Low Value,Low-Value Customers
+CUST01301,Potential Loyalists,245,3,21573.91,21573.91,7089.65,3,739.28,Low Value,Low-Value Customers
+CUST01302,Loyal Customers,5,3,25594.09,25594.09,7825.8,3,2430.37,Medium Value,Medium-Value Customers
+CUST01303,Potential Loyalists,43,2,7873.02,7873.02,1588.88,2,115.47,Low Value,Low-Value Customers
+CUST01304,Loyal Customers,165,2,43430.82,43430.82,20387.67,2,1682.15,Medium Value,Medium-Value Customers
+CUST01305,Champions,147,4,86073.42000000001,86073.42,28007.7,4,2491.79,Medium Value,Medium-Value Customers
+CUST01306,Loyal Customers,8,3,29700.44,29700.44,8868.97,3,514.14,Low Value,Low-Value Customers
+CUST01307,Champions,77,5,153050.78999999998,153050.79,44424.79,5,2971.56,Medium Value,Medium-Value Customers
+CUST01308,Loyal Customers,296,3,46281.68,46281.68,15095.43,3,2482.8,Medium Value,Medium-Value Customers
+CUST01309,Loyal Customers,139,3,75771.70999999999,75771.71,27629.03,3,8501.24,High Value,Loyal High-Value
+CUST01310,Champions,14,5,164156.35,164156.35,64425.45,5,7182.32,High Value,VIP Customers
+CUST01312,Potential Loyalists,150,3,19440.31,19440.31,5635.47,3,805.07,Low Value,Low-Value Customers
+CUST01313,Potential Loyalists,197,2,32495.79,32495.79,14494.35,2,3316.78,Medium Value,Growth Opportunities
+CUST01314,Loyal Customers,110,3,72509.24,72509.24,31684.03,3,4191.01,High Value,Loyal High-Value
+CUST01317,At Risk,268,2,5561.08,5561.08,1971.86,2,571.55,Low Value,Low-Value Customers
+CUST01318,Loyal Customers,66,3,12097.25,12097.25,4754.33,3,306.53,Low Value,Low-Value Customers
+CUST01319,Needs Attention,486,1,9297.35,9297.35,2471.58,1,2471.58,Medium Value,Medium-Value Customers
+CUST01320,Loyal Customers,186,3,48394.18,48394.18,14662.34,3,2549.97,Medium Value,Medium-Value Customers
+CUST01322,At Risk,383,2,8297.310000000001,8297.31,1832.7,2,2545.42,Medium Value,Medium-Value Customers
+CUST01323,Potential Loyalists,279,2,15466.14,15466.14,5386.31,2,3095.58,Medium Value,Growth Opportunities
+CUST01324,Champions,74,4,119114.92,119114.92,37694.08,4,3788.35,High Value,VIP Customers
+CUST01325,Needs Attention,495,1,1294.12,1294.12,328.21,1,328.21,Low Value,Low-Value / Low-Engagement
+CUST01326,Potential Loyalists,152,2,26432.99,26432.99,9216.63,2,92166.3,High Value,Growth Opportunities
+CUST01327,Champions,28,3,77366.92,77366.92,23452.17,3,3882.81,High Value,VIP Customers
+CUST01328,Champions,3,4,36340.04,36340.04,7370.5,4,1144.49,Medium Value,Medium-Value Customers
+CUST01330,Potential Loyalists,242,2,17945.45,17945.45,6385.27,2,1330.26,Medium Value,Growth Opportunities
+CUST01331,Needs Attention,446,1,2756.08,2756.08,1206.06,1,1206.06,Medium Value,Medium-Value Customers
+CUST01332,Loyal Customers,153,3,39376.15,39376.15,14005.42,3,2081.04,Medium Value,Medium-Value Customers
+CUST01333,Loyal Customers,123,3,105127.58,105127.58,27904.1,3,2346.85,Medium Value,Medium-Value Customers
+CUST01334,Champions,43,4,52880.89,52880.89,18027.4,4,1953.13,Medium Value,Medium-Value Customers
+CUST01335,Potential Loyalists,245,2,13438.86,13438.86,5238.08,2,1023.06,Medium Value,Growth Opportunities
+CUST01336,At Risk,380,2,12810.6,12810.6,2991.34,2,722.55,Low Value,Low-Value Customers
+CUST01337,Loyal Customers,184,4,57609.58,57609.58,14323.6,4,1210.79,Medium Value,Medium-Value Customers
+CUST01338,At Risk,380,2,20951.77,20951.77,7800.69,2,5065.38,High Value,At-Risk High-Value
+CUST01339,Potential Loyalists,131,2,5839.299999999999,5839.3,2666.89,2,2693.83,Medium Value,Growth Opportunities
+CUST01340,Needs Attention,311,1,8281.58,8281.58,2763.75,1,2763.75,Medium Value,Medium-Value Customers
+CUST01342,Loyal Customers,104,4,40138.55,40138.55,10785.76,4,785.56,Low Value,Low-Value Customers
+CUST01343,At Risk,284,2,4909.45,4909.45,1803.43,2,330.9,Low Value,Low-Value Customers
+CUST01344,At Risk,98,1,1839.1,1839.1,478.42,1,478.42,Low Value,Low-Value Customers
+CUST01345,Loyal Customers,238,2,107321.22,107321.22,42479.59,2,7139.43,High Value,Loyal High-Value
+CUST01346,Needs Attention,495,1,907.74,907.74,199.91,1,199.91,Low Value,Low-Value / Low-Engagement
+CUST01347,Needs Attention,360,1,1499.23,1499.23,482.04,1,482.04,Low Value,Low-Value / Low-Engagement
+CUST01348,Potential Loyalists,176,3,23044.6,23044.6,5472.37,3,682.34,Low Value,Low-Value Customers
+CUST01349,Potential Loyalists,367,2,68177.26,68177.26,21624.91,2,5924.63,High Value,Growth Opportunities
+CUST01350,Loyal Customers,12,3,10645.17,10645.17,3949.58,3,276.97,Low Value,Low-Value Customers
+CUST01351,At Risk,369,2,14928.78,14928.78,2980.44,2,748.85,Low Value,Low-Value Customers
+CUST01352,Champions,22,4,35767.86,35767.86,13508.29,4,796.95,Low Value,Low-Value Customers
+CUST01353,Loyal Customers,77,3,54095.94,54095.94,15192.04,3,2312.33,Medium Value,Medium-Value Customers
+CUST01354,Potential Loyalists,36,2,2438.73,2438.73,848.52,2,647.73,Low Value,Low-Value Customers
+CUST01355,Loyal Customers,22,3,32249.5,32249.5,10594.25,3,1198.44,Medium Value,Medium-Value Customers
+CUST01356,Needs Attention,391,1,3358.67,3358.67,623.07,1,623.07,Low Value,Low-Value / Low-Engagement
+CUST01357,Loyal Customers,245,2,79252.93000000001,79252.93,24075.53,2,4046.31,High Value,Loyal High-Value
+CUST01358,Potential Loyalists,205,3,15054.38,15054.38,4931.19,3,630.59,Low Value,Low-Value Customers
+CUST01359,Needs Attention,398,1,12225.65,12225.65,4271.7,1,4271.7,High Value,High-Value Customers
+CUST01360,Champions,118,5,79415.75,79415.75,28524.67,5,2052.13,Medium Value,Medium-Value Customers
+CUST01361,Needs Attention,353,1,4647.65,4647.65,1559.25,1,1559.25,Medium Value,Medium-Value Customers
+CUST01362,Loyal Customers,89,3,42005.53,42005.53,15801.89,3,1457.74,Medium Value,Medium-Value Customers
+CUST01363,At Risk,117,1,10501.9,10501.9,3046.54,1,3046.54,Medium Value,Medium-Value Customers
+CUST01364,Potential Loyalists,219,3,31337.97,31337.97,10680.74,3,1000.07,Medium Value,Growth Opportunities
+CUST01365,Loyal Customers,20,2,12752.09,12752.09,5604.79,2,375.91,Low Value,Low-Value Customers
+CUST01366,Champions,95,3,80186.52,80186.52,19374.97,3,1611.89,Medium Value,Medium-Value Customers
+CUST01367,Potential Loyalists,46,2,10457.83,10457.83,1888.32,2,7262.77,High Value,Growth Opportunities
+CUST01368,Loyal Customers,139,4,52461.78,52461.78,13918.35,4,1053.62,Medium Value,Medium-Value Customers
+CUST01369,Champions,44,4,128406.45,128406.45,49165.27,4,9241.59,High Value,VIP Customers
+CUST01370,Loyal Customers,56,3,30422.18,30422.18,8665.29,3,3029.82,Medium Value,Medium-Value Customers
+CUST01371,Loyal Customers,115,2,43039.01,43039.01,12075.34,2,1181.54,Medium Value,Medium-Value Customers
+CUST01372,Champions,16,6,55990.34,55990.34,19851.72,6,1404.93,Medium Value,Medium-Value Customers
+CUST01373,Champions,57,5,97764.43,97764.43,29296.87,5,1951.82,Medium Value,Medium-Value Customers
+CUST01374,At Risk,388,2,13593.14,13593.14,4905.37,2,1758.2,Medium Value,Medium-Value Customers
+CUST01375,Loyal Customers,14,4,23692.02,23692.02,8843.75,4,1417.27,Medium Value,Medium-Value Customers
+CUST01376,Champions,4,4,60264.11,60264.11,20077.21,4,1567.31,Medium Value,Medium-Value Customers
+CUST01377,Champions,134,4,134405.04,134405.04,32849.24,4,7415.18,High Value,VIP Customers
+CUST01378,Needs Attention,426,1,20142.43,20142.43,4840.87,1,4840.87,High Value,High-Value Customers
+CUST01379,Champions,52,4,88032.06,88032.06,25536.46,4,1682.24,Medium Value,Medium-Value Customers
+CUST01380,Needs Attention,513,1,9108.13,9108.13,3328.79,1,3328.79,Medium Value,Medium-Value Customers
+CUST01381,Loyal Customers,80,3,45359.86,45359.86,9714.65,3,945.0,Low Value,Low-Value Customers
+CUST01382,Potential Loyalists,408,2,82180.7,82180.7,31078.46,2,7808.66,High Value,Growth Opportunities
+CUST01383,Loyal Customers,316,4,141916.23,141916.23,56690.14,4,11593.08,High Value,Loyal High-Value
+CUST01384,Champions,44,3,84683.94,84683.94,20528.37,3,2518.82,Medium Value,Medium-Value Customers
+CUST01385,Loyal Customers,64,2,60111.14,60111.14,20111.11,2,1366.24,Medium Value,Medium-Value Customers
+CUST01386,Potential Loyalists,164,2,27013.11,27013.11,7365.23,2,675.09,Low Value,Low-Value Customers
+CUST01387,Loyal Customers,172,2,45618.29,45618.29,11244.73,2,3798.9,High Value,Loyal High-Value
+CUST01388,Loyal Customers,56,3,35852.11,35852.11,11003.67,3,778.75,Low Value,Low-Value Customers
+CUST01389,Needs Attention,444,1,7130.37,7130.37,2189.25,1,2189.25,Medium Value,Medium-Value Customers
+CUST01390,Loyal Customers,264,3,56033.33,56033.33,13761.07,3,2312.78,Medium Value,Medium-Value Customers
+CUST01391,Potential Loyalists,107,3,8176.74,8176.74,1378.79,3,242.74,Low Value,Low-Value Customers
+CUST01392,Loyal Customers,54,3,32980.24,32980.24,10106.59,3,976.48,Medium Value,Medium-Value Customers
+CUST01393,At Risk,159,1,18799.64,18799.64,6535.66,1,6535.66,High Value,At-Risk High-Value
+CUST01394,Potential Loyalists,158,2,22390.98,22390.98,6982.28,2,3733.84,High Value,Growth Opportunities
+CUST01396,At Risk,157,1,3518.56,3518.56,1096.08,1,1096.08,Medium Value,Medium-Value Customers
+CUST01398,Needs Attention,324,1,6361.93,6361.93,1574.34,1,1574.34,Medium Value,Medium-Value Customers
+CUST01399,Loyal Customers,258,4,39038.56,39038.56,12758.16,4,1493.93,Medium Value,Medium-Value Customers
+CUST01400,Needs Attention,413,1,11308.02,11308.02,2224.64,1,2224.64,Medium Value,Medium-Value Customers
+CUST01401,Loyal Customers,158,3,39595.22,39595.22,11637.64,3,983.74,Medium Value,Medium-Value Customers
+CUST01402,Potential Loyalists,181,2,38918.71000000001,38918.71,7816.91,2,2832.21,Medium Value,Growth Opportunities
+CUST01403,Champions,176,4,96759.64,96759.64,43045.51,4,4516.84,High Value,VIP Customers
+CUST01404,Potential Loyalists,33,1,2467.48,2467.48,764.05,1,764.05,Low Value,Low-Value Customers
+CUST01405,Loyal Customers,44,2,15357.18,15357.18,5270.23,2,703.64,Low Value,Low-Value Customers
+CUST01407,Loyal Customers,118,2,56204.29,56204.29,22575.81,2,5546.88,High Value,Loyal High-Value
+CUST01408,Loyal Customers,128,4,28871.59,28871.59,8883.98,4,913.99,Low Value,Low-Value Customers
+CUST01409,Potential Loyalists,97,2,23857.94,23857.94,4444.83,2,393.35,Low Value,Low-Value Customers
+CUST01410,Loyal Customers,428,4,73661.76000000001,73661.76,19355.4,4,6325.29,High Value,Loyal High-Value
+CUST01411,Loyal Customers,168,3,56851.01,56851.01,17948.67,3,2094.36,Medium Value,Medium-Value Customers
+CUST01412,At Risk,490,1,26201.41,26201.41,8720.18,1,8720.18,High Value,At-Risk High-Value
+CUST01414,Loyal Customers,65,3,56075.49,56075.49,22829.93,3,1488.26,Medium Value,Medium-Value Customers
+CUST01415,Loyal Customers,12,3,25322.45,25322.45,8889.59,3,1359.26,Medium Value,Medium-Value Customers
+CUST01416,Potential Loyalists,203,2,44268.03999999999,44268.04,18999.41,2,1757.58,Medium Value,Growth Opportunities
+CUST01417,Potential Loyalists,220,2,38046.76,38046.76,11134.31,2,5651.93,High Value,Growth Opportunities
+CUST01418,Loyal Customers,176,3,44000.04,44000.04,17204.9,3,1459.28,Medium Value,Medium-Value Customers
+CUST01419,Needs Attention,477,1,22163.79,22163.79,8363.61,1,8363.61,High Value,High-Value Customers
+CUST01420,Loyal Customers,182,2,70238.57,70238.57,31482.02,2,5069.57,High Value,Loyal High-Value
+CUST01421,Potential Loyalists,5,1,18726.48,18726.48,7295.94,1,7295.94,High Value,Growth Opportunities
+CUST01422,Loyal Customers,195,4,39771.88,39771.88,14261.54,4,3469.96,High Value,Loyal High-Value
+CUST01423,Needs Attention,238,1,9174.89,9174.89,1795.17,1,1795.17,Medium Value,Medium-Value Customers
+CUST01424,Potential Loyalists,270,3,9273.71,9273.71,3253.07,3,739.33,Low Value,Low-Value Customers
+CUST01426,Needs Attention,494,1,2595.61,2595.61,991.25,1,991.25,Medium Value,Medium-Value Customers
+CUST01427,Loyal Customers,7,2,22900.59,22900.59,4110.26,2,236.9,Low Value,Low-Value Customers
+CUST01428,Needs Attention,520,1,6451.98,6451.98,3056.06,1,3056.06,Medium Value,Medium-Value Customers
+CUST01429,Champions,67,8,125870.96,125870.96,41382.4,8,4903.13,High Value,VIP Customers
+CUST01430,Loyal Customers,82,4,24173.16,24173.16,6615.42,4,808.73,Low Value,Low-Value Customers
+CUST01431,Potential Loyalists,331,2,53531.29,53531.29,16423.15,2,2511.19,Medium Value,Growth Opportunities
+CUST01432,Loyal Customers,117,3,27028.79,27028.79,9534.42,3,1290.18,Medium Value,Medium-Value Customers
+CUST01433,Loyal Customers,103,3,75788.66,75788.66,21618.01,3,1604.9,Medium Value,Medium-Value Customers
+CUST01434,Potential Loyalists,332,2,60917.91,60917.91,21093.74,2,22927.98,High Value,Growth Opportunities
+CUST01436,Loyal Customers,111,5,30847.98,30847.98,9628.05,5,683.33,Low Value,Low-Value Customers
+CUST01437,At Risk,368,2,11988.46,11988.46,4404.13,2,7464.63,High Value,At-Risk High-Value
+CUST01438,Champions,8,4,82936.43000000001,82936.43,34190.53,4,2380.96,Medium Value,Medium-Value Customers
+CUST01439,Potential Loyalists,246,3,12995.43,12995.43,5509.4,3,616.26,Low Value,Low-Value Customers
+CUST01440,Loyal Customers,128,3,35311.3,35311.3,14904.02,3,2637.88,Medium Value,Medium-Value Customers
+CUST01441,At Risk,125,1,4013.89,4013.89,1007.1,1,1007.1,Medium Value,Medium-Value Customers
+CUST01442,Potential Loyalists,62,2,21369.54,21369.54,6059.94,2,1367.93,Medium Value,Growth Opportunities
+CUST01443,At Risk,362,2,17836.120000000003,17836.12,7448.92,2,8096.65,High Value,At-Risk High-Value
+CUST01444,Potential Loyalists,525,2,96177.4,96177.4,36127.95,2,180639.75,High Value,Growth Opportunities
+CUST01446,Champions,76,4,41597.52,41597.52,14044.42,4,1184.18,Medium Value,Medium-Value Customers
+CUST01447,Loyal Customers,440,3,136638.78999999998,136638.79,39958.18,3,15608.66,High Value,Loyal High-Value
+CUST01448,Loyal Customers,88,2,41610.27,41610.27,18113.83,2,1365.02,Medium Value,Medium-Value Customers
+CUST01449,Loyal Customers,19,2,13943.46,13943.46,4235.86,2,711.91,Low Value,Low-Value Customers
+CUST01450,At Risk,162,1,1586.37,1586.37,483.46,1,483.46,Low Value,Low-Value Customers
+CUST01451,Potential Loyalists,361,2,115504.17,115504.17,34888.61,2,498408.71,High Value,Growth Opportunities
+CUST01452,At Risk,173,1,1712.5,1712.5,813.81,1,813.81,Low Value,Low-Value Customers
+CUST01453,At Risk,141,1,7788.24,7788.24,3069.79,1,3069.79,Medium Value,Medium-Value Customers
+CUST01455,Champions,22,3,45123.33,45123.33,9942.82,3,708.68,Low Value,Low-Value Customers
+CUST01456,Champions,17,3,44814.51,44814.51,15557.07,3,2691.53,Medium Value,Medium-Value Customers
+CUST01457,Potential Loyalists,141,2,32535.71,32535.71,10417.86,2,1713.46,Medium Value,Growth Opportunities
+CUST01459,Loyal Customers,187,3,96131.86,96131.86,32640.05,3,3162.8,Medium Value,Medium-Value Customers
+CUST01460,Potential Loyalists,276,2,25359.23,25359.23,8117.66,2,1193.77,Medium Value,Growth Opportunities
+CUST01461,Potential Loyalists,81,2,20336.23,20336.23,5812.87,2,6318.34,High Value,Growth Opportunities
+CUST01462,Champions,21,4,61289.17,61289.17,24710.24,4,2106.58,Medium Value,Medium-Value Customers
+CUST01463,Loyal Customers,168,4,67829.1,67829.1,23613.38,4,5933.01,High Value,Loyal High-Value
+CUST01466,Loyal Customers,28,2,16781.57,16781.57,5212.79,2,1618.88,Medium Value,Medium-Value Customers
+CUST01467,Loyal Customers,120,3,46730.6,46730.6,14756.42,3,1134.24,Medium Value,Medium-Value Customers
+CUST01468,Loyal Customers,135,3,25303.25,25303.25,8255.19,3,688.51,Low Value,Low-Value Customers
+CUST01469,Loyal Customers,174,3,40571.35,40571.35,9960.58,3,932.64,Low Value,Low-Value Customers
+CUST01470,Potential Loyalists,304,3,33019.31,33019.31,10815.3,3,6717.58,High Value,Growth Opportunities
+CUST01471,Potential Loyalists,325,2,36505.08,36505.08,7825.42,2,1287.08,Medium Value,Growth Opportunities
+CUST01472,Loyal Customers,7,3,38826.1,38826.1,10591.81,3,5459.7,High Value,Loyal High-Value
+CUST01473,Needs Attention,456,1,9029.48,9029.48,1610.9,1,1610.9,Medium Value,Medium-Value Customers
+CUST01474,Loyal Customers,8,3,24874.29,24874.29,9955.57,3,1113.6,Medium Value,Medium-Value Customers
+CUST01475,Loyal Customers,345,5,103839.58,103839.58,21989.02,5,4110.1,High Value,Loyal High-Value
+CUST01476,Needs Attention,193,1,7964.03,7964.03,2081.53,1,2081.53,Medium Value,Medium-Value Customers
+CUST01477,Needs Attention,483,1,3956.95,3956.95,1317.63,1,1317.63,Medium Value,Medium-Value Customers
+CUST01478,Champions,12,4,77434.49,77434.49,23523.03,4,1584.04,Medium Value,Medium-Value Customers
+CUST01479,At Risk,277,1,1514.63,1514.63,398.56,1,398.56,Low Value,Low-Value Customers
+CUST01480,Potential Loyalists,70,2,18668.89,18668.89,5137.91,2,375.85,Low Value,Low-Value Customers
+CUST01481,Needs Attention,516,1,2524.76,2524.76,987.29,1,987.29,Medium Value,Medium-Value Customers
+CUST01482,Potential Loyalists,20,2,11109.62,11109.62,4104.17,2,2230.53,Medium Value,Growth Opportunities
+CUST01483,Needs Attention,322,1,6409.37,6409.37,2143.29,1,2143.29,Medium Value,Medium-Value Customers
+CUST01484,Potential Loyalists,274,2,37229.16,37229.16,10607.41,2,1261.29,Medium Value,Growth Opportunities
+CUST01485,Loyal Customers,114,5,43565.34,43565.34,13656.7,5,1074.48,Medium Value,Medium-Value Customers
+CUST01486,Loyal Customers,18,3,38239.6,38239.6,13830.54,3,937.66,Low Value,Low-Value Customers
+CUST01487,Champions,54,4,45077.36,45077.36,16910.05,4,2181.94,Medium Value,Medium-Value Customers
+CUST01488,Loyal Customers,319,4,43166.48,43166.48,11508.06,4,4495.34,High Value,Loyal High-Value
+CUST01489,At Risk,174,1,6104.04,6104.04,1177.93,1,1177.93,Medium Value,Medium-Value Customers
+CUST01492,Needs Attention,536,1,2696.57,2696.57,1034.16,1,1034.16,Medium Value,Medium-Value Customers
+CUST01493,Loyal Customers,193,2,80848.05,80848.05,34611.76,2,4902.52,High Value,Loyal High-Value
+CUST01494,Loyal Customers,170,3,88172.73,88172.73,37906.12,3,9620.84,High Value,Loyal High-Value
+CUST01495,Potential Loyalists,54,2,17910.07,17910.07,5106.99,2,883.56,Low Value,Low-Value Customers
+CUST01496,Champions,68,4,173878.41999999998,173878.42,59284.15,4,4434.12,High Value,VIP Customers
+CUST01497,Loyal Customers,349,3,84517.67,84517.67,23219.69,3,5437.87,High Value,Loyal High-Value
+CUST01498,Loyal Customers,69,4,26379.16,26379.16,9789.68,4,1159.91,Medium Value,Medium-Value Customers
+CUST01499,Potential Loyalists,504,1,42272.07,42272.07,9671.07,1,9671.07,High Value,Growth Opportunities
+CUST01500,Loyal Customers,54,2,97812.1,97812.1,46552.97,2,5189.85,High Value,Loyal High-Value
+CUST01501,Champions,30,7,35062.56,35062.56,10341.85,7,699.72,Low Value,Low-Value Customers
+CUST01504,Loyal Customers,98,3,45119.08,45119.08,19534.12,3,6533.15,High Value,Loyal High-Value
+CUST01505,At Risk,105,1,3985.52,3985.52,1854.87,1,1854.87,Medium Value,Medium-Value Customers
+CUST01506,Potential Loyalists,256,2,55608.740000000005,55608.74,21648.98,2,30068.03,High Value,Growth Opportunities
+CUST01507,Loyal Customers,203,4,36688.3,36688.3,11628.5,4,1242.36,Medium Value,Medium-Value Customers
+CUST01508,Potential Loyalists,156,2,15799.6,15799.6,6824.84,2,704.32,Low Value,Low-Value Customers
+CUST01509,Loyal Customers,200,3,68178.78,68178.78,28362.1,3,33367.18,High Value,Loyal High-Value
+CUST01510,Champions,54,3,85286.28,85286.28,20386.75,3,1491.35,Medium Value,Medium-Value Customers
+CUST01511,Potential Loyalists,182,2,13261.61,13261.61,3108.36,2,522.41,Low Value,Low-Value Customers
+CUST01512,At Risk,137,1,7105.35,7105.35,1304.56,1,1304.56,Medium Value,Medium-Value Customers
+CUST01513,Loyal Customers,60,2,78196.5,78196.5,25596.02,2,1943.51,Medium Value,Medium-Value Customers
+CUST01514,Champions,125,4,96790.6,96790.6,32761.12,4,2986.43,Medium Value,Medium-Value Customers
+CUST01515,Potential Loyalists,337,2,63369.12,63369.12,18122.71,2,9488.33,High Value,Growth Opportunities
+CUST01516,At Risk,409,2,21546.06,21546.06,5747.44,2,15965.11,High Value,At-Risk High-Value
+CUST01517,Loyal Customers,178,3,70039.86,70039.86,12470.33,3,1248.28,Medium Value,Medium-Value Customers
+CUST01518,Potential Loyalists,127,3,13376.53,13376.53,4582.09,3,670.88,Low Value,Low-Value Customers
+CUST01519,Potential Loyalists,534,1,58532.09,58532.09,19540.47,1,19540.47,High Value,Growth Opportunities
+CUST01520,Potential Loyalists,299,3,9120.51,9120.51,2983.97,3,1420.94,Medium Value,Growth Opportunities
+CUST01521,Champions,53,3,95559.87,95559.87,38256.16,3,2812.95,Medium Value,Medium-Value Customers
+CUST01522,At Risk,424,1,14755.38,14755.38,5279.18,1,5279.18,High Value,At-Risk High-Value
+CUST01523,Champions,2,6,78761.94,78761.94,21244.09,6,1215.34,Medium Value,Medium-Value Customers
+CUST01524,Loyal Customers,54,2,27085.480000000003,27085.48,6912.76,2,701.09,Low Value,Low-Value Customers
+CUST01525,At Risk,331,1,16801.67,16801.67,4024.91,1,4024.91,High Value,At-Risk High-Value
+CUST01526,Champions,86,3,97882.58,97882.58,36574.9,3,4050.38,High Value,VIP Customers
+CUST01527,Loyal Customers,70,3,41483.35,41483.35,16400.49,3,1334.46,Medium Value,Medium-Value Customers
+CUST01528,Loyal Customers,16,2,25625.18,25625.18,9779.79,2,1214.88,Medium Value,Medium-Value Customers
+CUST01529,Champions,40,6,78642.5,78642.5,25080.37,6,1520.94,Medium Value,Medium-Value Customers
+CUST01530,Potential Loyalists,198,2,42382.22,42382.22,14527.32,2,1488.45,Medium Value,Growth Opportunities
+CUST01532,Potential Loyalists,93,3,7126.65,7126.65,2487.4,3,192.67,Low Value,Low-Value Customers
+CUST01533,Loyal Customers,82,3,30615.58,30615.58,13251.2,3,1110.75,Medium Value,Medium-Value Customers
+CUST01534,Loyal Customers,58,3,29627.17,29627.17,7534.39,3,1119.52,Medium Value,Medium-Value Customers
+CUST01535,Champions,38,6,44261.4,44261.4,16078.21,6,2193.48,Medium Value,Medium-Value Customers
+CUST01536,Loyal Customers,155,4,36523.91,36523.91,13837.52,4,1371.41,Medium Value,Medium-Value Customers
+CUST01537,Loyal Customers,192,4,49716.44,49716.44,17853.66,4,1961.94,Medium Value,Medium-Value Customers
+CUST01538,At Risk,192,2,9932.59,9932.59,4461.21,2,568.31,Low Value,Low-Value Customers
+CUST01539,At Risk,331,2,19027.64,19027.64,6501.4,2,1329.53,Medium Value,Medium-Value Customers
+CUST01540,At Risk,282,2,4969.4,4969.4,1729.37,2,286.32,Low Value,Low-Value Customers
+CUST01541,Loyal Customers,49,2,39449.23,39449.23,10825.56,2,10023.67,High Value,Loyal High-Value
+CUST01542,Needs Attention,488,1,2307.54,2307.54,924.58,1,924.58,Low Value,Low-Value / Low-Engagement
+CUST01543,Potential Loyalists,68,1,9201.73,9201.73,2077.8,1,2077.8,Medium Value,Growth Opportunities
+CUST01544,Loyal Customers,162,4,58278.03999999999,58278.04,14714.94,4,1336.51,Medium Value,Medium-Value Customers
+CUST01545,Champions,51,7,102475.7,102475.7,24967.88,7,1649.13,Medium Value,Medium-Value Customers
+CUST01546,Loyal Customers,24,2,63461.86,63461.86,19880.99,2,24245.11,High Value,Loyal High-Value
+CUST01548,Loyal Customers,15,1,28021.55,28021.55,11302.44,1,11302.44,High Value,Loyal High-Value
+CUST01549,Potential Loyalists,85,1,14997.63,14997.63,5338.67,1,5338.67,High Value,Growth Opportunities
+CUST01550,At Risk,316,1,16188.72,16188.72,6241.91,1,6241.91,High Value,At-Risk High-Value
+CUST01551,Champions,13,4,65910.29000000001,65910.29,25307.91,4,1486.95,Medium Value,Medium-Value Customers
+CUST01552,Potential Loyalists,58,2,11161.29,11161.29,2814.91,2,379.37,Low Value,Low-Value Customers
+CUST01553,Champions,2,3,65046.66,65046.66,27510.67,3,2632.6,Medium Value,Medium-Value Customers
+CUST01554,Champions,123,5,114940.82,114940.82,29747.15,5,3007.8,Medium Value,Medium-Value Customers
+CUST01555,Needs Attention,414,1,1302.37,1302.37,419.9,1,419.9,Low Value,Low-Value / Low-Engagement
+CUST01556,Loyal Customers,66,3,28531.01,28531.01,10656.1,3,2192.61,Medium Value,Medium-Value Customers
+CUST01557,Loyal Customers,47,2,46248.68,46248.68,18143.7,2,1115.85,Medium Value,Medium-Value Customers
+CUST01558,Potential Loyalists,439,2,33277.82,33277.82,13811.47,2,12788.4,High Value,Growth Opportunities
+CUST01560,Loyal Customers,162,3,27688.300000000003,27688.3,6335.98,3,711.91,Low Value,Low-Value Customers
+CUST01561,Loyal Customers,147,3,38646.92999999999,38646.93,13831.2,3,1650.5,Medium Value,Medium-Value Customers
+CUST01562,Champions,9,5,32433.22,32433.22,13929.39,5,2478.54,Medium Value,Medium-Value Customers
+CUST01563,Loyal Customers,134,3,36313.0,36313.0,13595.73,3,1832.31,Medium Value,Medium-Value Customers
+CUST01564,Loyal Customers,23,3,30905.35,30905.35,9716.12,3,1275.08,Medium Value,Medium-Value Customers
+CUST01565,Loyal Customers,16,2,26253.91,26253.91,7612.97,2,726.43,Low Value,Low-Value Customers
+CUST01566,Loyal Customers,223,4,96166.4,96166.4,26833.06,4,4586.85,High Value,Loyal High-Value
+CUST01567,Potential Loyalists,214,2,15953.41,15953.41,3497.52,2,417.37,Low Value,Low-Value Customers
+CUST01568,Loyal Customers,196,6,116696.33,116696.33,32647.1,6,3560.21,High Value,Loyal High-Value
+CUST01569,Loyal Customers,44,2,59731.740000000005,59731.74,24152.9,2,7062.25,High Value,Loyal High-Value
+CUST01570,Potential Loyalists,350,2,38810.37,38810.37,11260.41,2,1822.07,Medium Value,Growth Opportunities
+CUST01571,Champions,84,5,87902.76,87902.76,22366.83,5,1477.33,Medium Value,Medium-Value Customers
+CUST01572,Loyal Customers,95,3,14797.62,14797.62,6181.65,3,1107.82,Medium Value,Medium-Value Customers
+CUST01573,At Risk,169,1,6960.13,6960.13,2483.83,1,2483.83,Medium Value,Medium-Value Customers
+CUST01574,Loyal Customers,45,1,36740.61,36740.61,12390.91,1,12390.91,High Value,Loyal High-Value
+CUST01576,Champions,47,6,46879.53,46879.53,14409.13,6,910.24,Low Value,Low-Value Customers
+CUST01577,Loyal Customers,69,3,20220.79,20220.79,7815.7,3,565.13,Low Value,Low-Value Customers
+CUST01578,At Risk,521,1,31153.48,31153.48,8682.64,1,8682.64,High Value,At-Risk High-Value
+CUST01579,Potential Loyalists,357,3,52860.78,52860.78,21295.3,3,3703.53,High Value,Growth Opportunities
+CUST01580,Loyal Customers,58,2,52605.8,52605.8,20024.7,2,10484.14,High Value,Loyal High-Value
+CUST01581,Champions,33,4,48915.09,48915.09,20845.62,4,1350.1,Medium Value,Medium-Value Customers
+CUST01582,Champions,36,4,61499.18,61499.18,22443.98,4,1344.76,Medium Value,Medium-Value Customers
+CUST01583,Potential Loyalists,423,3,29679.77,29679.77,7455.92,3,1906.88,Medium Value,Growth Opportunities
+CUST01584,At Risk,172,1,6986.9,6986.9,3076.45,1,3076.45,Medium Value,Medium-Value Customers
+CUST01585,Champions,153,4,120749.88,120749.88,39451.99,4,3753.76,High Value,VIP Customers
+CUST01586,Loyal Customers,45,2,15119.92,15119.92,3462.28,2,375.11,Low Value,Low-Value Customers
+CUST01587,At Risk,201,1,3148.77,3148.77,1412.87,1,1412.87,Medium Value,Medium-Value Customers
+CUST01588,Champions,73,4,53389.44,53389.44,13607.1,4,962.99,Medium Value,Medium-Value Customers
+CUST01589,Potential Loyalists,234,1,79618.15,79618.15,24357.79,1,24357.79,High Value,Growth Opportunities
+CUST01590,At Risk,189,1,2284.76,2284.76,434.47,1,434.47,Low Value,Low-Value Customers
+CUST01591,Champions,66,5,76438.98000000001,76438.98,23300.46,5,1528.9,Medium Value,Medium-Value Customers
+CUST01592,Loyal Customers,40,1,77660.04,77660.04,25925.89,1,25925.89,High Value,Loyal High-Value
+CUST01593,Potential Loyalists,279,3,6927.17,6927.17,1634.92,3,296.18,Low Value,Low-Value Customers
+CUST01594,At Risk,250,1,9449.41,9449.41,2153.58,1,2153.58,Medium Value,Medium-Value Customers
+CUST01595,At Risk,226,2,10877.429999999998,10877.43,3303.73,2,1342.98,Medium Value,Medium-Value Customers
+CUST01596,Potential Loyalists,159,2,23348.09,23348.09,4125.36,2,1348.16,Medium Value,Growth Opportunities
+CUST01597,Loyal Customers,70,3,31077.73,31077.73,9274.64,3,1711.19,Medium Value,Medium-Value Customers
+CUST01598,At Risk,238,1,2380.42,2380.42,673.92,1,673.92,Low Value,Low-Value Customers
+CUST01599,Potential Loyalists,316,4,22400.14,22400.14,7191.46,4,1839.25,Medium Value,Growth Opportunities

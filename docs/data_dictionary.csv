@@ -1,0 +1,21 @@
+field,description,data_type
+order_id,Unique order identifier,String
+order_date,Date on which the order was placed,Date
+customer_id,Unique customer identifier,String
+category,Product category,Categorical
+product,Product name,Categorical
+region,Customer region,Categorical
+city,Customer city,Categorical
+channel,Sales channel,Categorical
+quantity,Number of units purchased,Integer
+unit_price,Price per unit before discount,Numeric
+discount,Discount applied to the order,Decimal
+gross_sales,Quantity multiplied by unit price,Numeric
+revenue,Net sales after discount,Numeric
+cost,Estimated product cost,Numeric
+profit,Revenue minus cost,Numeric
+profit_margin,Profit divided by revenue,Decimal
+order_status,Order lifecycle status,Categorical
+is_completed,1 when order is delivered,Binary
+is_returned,1 when order is returned,Binary
+is_cancelled,1 when order is cancelled,Binary

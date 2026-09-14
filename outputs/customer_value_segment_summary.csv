@@ -1,0 +1,4 @@
+value_segment,customers,revenue,profit,avg_clv,avg_orders,avg_order_value,revenue_share
+High Value,365,20226685.16,6915102.55,12590.41,2.18,25869.13,33.72
+Medium Value,729,33245102.2,10625748.42,1909.47,3.01,14235.45,55.42
+Low Value,365,6515507.67,1894947.67,575.01,2.54,6543.5,10.86
